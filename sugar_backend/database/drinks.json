@@ -1,0 +1,2338 @@
+[
+    {
+        "cafe_id": 1,
+        "drink_name": "수박 주스",
+        "volume": 590.0,
+        "sugar_content": 22.9,
+        "calories": 124.8,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230503152202_1683094922048_HwqepqZ3T1.png"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "파란하늘 수박소다 펄 프라페",
+        "volume": 590.0,
+        "sugar_content": 76.5,
+        "calories": 464.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240501231540_1714572940350_bVz8I5_1QQ.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "몽글젤리 복숭아 스무디",
+        "volume": 590.0,
+        "sugar_content": 90.9,
+        "calories": 400.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240501231855_1714573135539_rYUX2yfKCy.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "탱글탱글 포도알 티플레저",
+        "volume": 708.0,
+        "sugar_content": 66.0,
+        "calories": 278.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240501232027_1714573227566_QCSzwXJ_wQ.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "오이오이 라임 오히또",
+        "volume": 708.0,
+        "sugar_content": 7.6,
+        "calories": 55.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240501232226_1714573346435_cSTlwNpfH0.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "왕메가초코",
+        "volume": 944.0,
+        "sugar_content": 70.1,
+        "calories": 555.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240327185427_1711533267794_UW_dXJe088.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "왕메가아이스티",
+        "volume": 944.0,
+        "sugar_content": 96.6,
+        "calories": 474.8,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240327192641_1711535201549_Gf36IO0csS.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "제로 복숭아 아이스티",
+        "volume": 708.0,
+        "sugar_content": 0.7,
+        "calories": 26.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240327193115_1711535475035_46ZQCvlrNT.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "연유라떼",
+        "volume": 590.0,
+        "sugar_content": 31.9,
+        "calories": 351.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430104014_1714441214813_DUm__1R9X0.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "골드망고스무디",
+        "volume": 590.0,
+        "sugar_content": 38.4,
+        "calories": 209.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240327195636_1711536996413_KY8UbrMaP1.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "딸기라떼",
+        "volume": 590.0,
+        "sugar_content": 47.3,
+        "calories": 366.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240118002132_1705504892231_18kOHNgqsY.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "할메가커피",
+        "volume": 590.0,
+        "sugar_content": 30.3,
+        "calories": 281.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230905185615_1693907775304_fenhtXqy4y.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "왕할메가커피",
+        "volume": 944.0,
+        "sugar_content": 48.5,
+        "calories": 468.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230905185855_1693907935536_aXkP_SjplJ.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "코코넛 커피 스무디",
+        "volume": 590.0,
+        "sugar_content": 61.4,
+        "calories": 746.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230503150121_1683093681433_ehOASTxDPQ.png"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "레드오렌지자몽주스",
+        "volume": 590.0,
+        "sugar_content": 43.7,
+        "calories": 205.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230302111940_1677723580990_DVocCFWWgr.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "샤인머스캣그린주스",
+        "volume": 590.0,
+        "sugar_content": 46.7,
+        "calories": 218.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230302112058_1677723658262_kWTYa4fhBz.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "딸기주스",
+        "volume": 590.0,
+        "sugar_content": 37.1,
+        "calories": 196.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230102162433_1672644273585_S16nDUXebH.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "딸기바나나주스",
+        "volume": 590.0,
+        "sugar_content": 42.2,
+        "calories": 268.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630181211_1656580331105_8H9ebY4_sA.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 에스프레소",
+        "volume": 59.0,
+        "sugar_content": 1.3,
+        "calories": 6.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217105027_1676598627855_H3HMfEhgCv.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 아메리카노",
+        "volume": 590.0,
+        "sugar_content": 0.0,
+        "calories": 9.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530165901_1717055941478_Pqg3iaoIyM.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 꿀아메리카노",
+        "volume": 590.0,
+        "sugar_content": 26.2,
+        "calories": 149.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170738_1717056458641_Ekaz7axUZD.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 헤이즐넛 아메리카노",
+        "volume": 590.0,
+        "sugar_content": 10.3,
+        "calories": 84.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170041_1717056041690_L6Lpforr89.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 바닐라 아메리카노",
+        "volume": 590.0,
+        "sugar_content": 15.6,
+        "calories": 83.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530165848_1717055928942_RLLylsMj0e.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 카페라떼",
+        "volume": 590.0,
+        "sugar_content": 11.4,
+        "calories": 178.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530165946_1717055986546_yFYO97r6dR.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 카푸치노",
+        "volume": 590.0,
+        "sugar_content": 10.4,
+        "calories": 152.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170011_1717056011723_ACnV8jP2Ro.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 바닐라라떼",
+        "volume": 590.0,
+        "sugar_content": 21.9,
+        "calories": 233.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530165821_1717055901718_klCdVd4YG4.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 헤이즐넛 라떼",
+        "volume": 590.0,
+        "sugar_content": 18.2,
+        "calories": 240.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170054_1717056054857_sYqOF5FXJ1.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 카라멜마끼아또",
+        "volume": 590.0,
+        "sugar_content": 21.3,
+        "calories": 238.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530165933_1717055973357_l7aPEngCEn.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 연유라떼",
+        "volume": 590.0,
+        "sugar_content": 27.3,
+        "calories": 301.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530165912_1717055952957_D2XGVWELDY.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 카페모카",
+        "volume": 590.0,
+        "sugar_content": 36.1,
+        "calories": 430.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530165959_1717055999843_vbxwWfawxe.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 티라미수라떼",
+        "volume": 590.0,
+        "sugar_content": 37.2,
+        "calories": 436.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170024_1717056024671_Dq9Vwb3sqt.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 아메리카노",
+        "volume": 708.0,
+        "sugar_content": 0.0,
+        "calories": 9.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217164758_1676620078351_vXSnCZYVF6.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 메가리카노",
+        "volume": 944.0,
+        "sugar_content": 0.0,
+        "calories": 17.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217170408_1676621048378_1m10PUoIhz.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 꿀아메리카노",
+        "volume": 708.0,
+        "sugar_content": 21.5,
+        "calories": 137.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217170535_1676621135999_flZgBpfl93.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 헤이즐넛 아메리카노",
+        "volume": 708.0,
+        "sugar_content": 15.8,
+        "calories": 108.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217170924_1676621364089_OpnrkUgTRg.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 바닐라 아메리카노",
+        "volume": 708.0,
+        "sugar_content": 18.0,
+        "calories": 107.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171109_1676621469823_cdtONtnQgN.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 카페라떼",
+        "volume": 590.0,
+        "sugar_content": 9.3,
+        "calories": 147.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430103913_1714441153446_6FXwTFwQeV.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 카푸치노",
+        "volume": 590.0,
+        "sugar_content": 10.1,
+        "calories": 127.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171433_1676621673555_LIgxeARtGC.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 바닐라라떼",
+        "volume": 590.0,
+        "sugar_content": 30.4,
+        "calories": 239.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430103826_1714441106330_tSF2InH1Zv.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 헤이즐넛 라떼",
+        "volume": 590.0,
+        "sugar_content": 23.4,
+        "calories": 237.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430103929_1714441169029_nVz2Noufec.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 카라멜마끼아또",
+        "volume": 590.0,
+        "sugar_content": 26.3,
+        "calories": 232.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171859_1676621939471_NuwLhHs7Mt.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 연유라떼",
+        "volume": 590.0,
+        "sugar_content": 31.9,
+        "calories": 351.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430104543_1714441543876_eGwRfZt69U.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 카페모카",
+        "volume": 590.0,
+        "sugar_content": 32.6,
+        "calories": 319.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217172044_1676622044889_45ysZTqQhO.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "디카페인 티라미수라떼",
+        "volume": 590.0,
+        "sugar_content": 37.5,
+        "calories": 404.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217172430_1676622270158_zAinQ9JkHT.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "딸기쿠키프라페",
+        "volume": 590.0,
+        "sugar_content": 62.2,
+        "calories": 575.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172226_1656577346336_z_d4URoCvB.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "콜드브루디카페인",
+        "volume": 590.0,
+        "sugar_content": 0.0,
+        "calories": 7.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701130936_1656648576586_cDwaPJzMuf.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "콜드브루디카페인",
+        "volume": 590.0,
+        "sugar_content": 0.0,
+        "calories": 9.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170446_1717056286170_IZPwmWrwCa.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "콜드브루디카페인라떼",
+        "volume": 590.0,
+        "sugar_content": 0.0,
+        "calories": 140.8,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701131027_1656648627428_DZlDQuVTPz.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "콜드브루디카페인라떼",
+        "volume": 590.0,
+        "sugar_content": 0.0,
+        "calories": 153.8,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170429_1717056269445_Vu_hmsP44R.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "에스프레소",
+        "volume": 59.0,
+        "sugar_content": 0.0,
+        "calories": 7.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220818143216_1660800736386_C007eosz5G.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "에스프레소 도피오",
+        "volume": 147.5,
+        "sugar_content": 0.0,
+        "calories": 15.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220818143336_1660800816109_lRozkltILp.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "쿠키프라페",
+        "volume": 590.0,
+        "sugar_content": 64.9,
+        "calories": 725.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173946_1656578386691_VAWfjgN1Yy.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "고구마라떼",
+        "volume": 590.0,
+        "sugar_content": 18.8,
+        "calories": 310.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170703_1717056423982_hkt7Qu4kDV.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "곡물라떼",
+        "volume": 590.0,
+        "sugar_content": 40.5,
+        "calories": 467.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170716_1717056436158_ojcAM_1Esy.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "토피넛라떼",
+        "volume": 590.0,
+        "sugar_content": 17.8,
+        "calories": 368.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170530_1717056330525_TYQBPrhrNY.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "고구마라떼",
+        "volume": 590.0,
+        "sugar_content": 21.6,
+        "calories": 248.8,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171750_1656663470713__LDMwpslzS.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "곡물라떼",
+        "volume": 590.0,
+        "sugar_content": 38.3,
+        "calories": 389.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630144520_1656567920194_Fn0wniPr9t.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "오레오초코라떼",
+        "volume": 590.0,
+        "sugar_content": 31.1,
+        "calories": 449.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630144810_1656568090796_yoHykaK4Ul.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "토피넛라떼",
+        "volume": 590.0,
+        "sugar_content": 22.5,
+        "calories": 364.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630145135_1656568295485_eXn10nJFRP.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "흑당버블밀크티라떼",
+        "volume": 590.0,
+        "sugar_content": 24.4,
+        "calories": 330.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630145600_1656568560202_TnZLPbECKx.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "핫초코",
+        "volume": 590.0,
+        "sugar_content": 23.0,
+        "calories": 374.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170607_1717056367235_vvtyHUYKk4.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "녹차라떼",
+        "volume": 590.0,
+        "sugar_content": 14.3,
+        "calories": 280.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170805_1717056485174_DykRfLSi0j.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "로얄밀크티라떼",
+        "volume": 590.0,
+        "sugar_content": 14.7,
+        "calories": 232.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170116_1717056076536_yr6vBkqLch.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "흑당라떼",
+        "volume": 590.0,
+        "sugar_content": 33.6,
+        "calories": 322.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630151108_1656569468030_FRQYHDiaKH.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "흑당밀크티라떼",
+        "volume": 590.0,
+        "sugar_content": 22.6,
+        "calories": 300.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630151925_1656569965570_3YpJCpBq_f.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "흑당버블라떼",
+        "volume": 590.0,
+        "sugar_content": 27.2,
+        "calories": 320.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630152037_1656570037497_XqHfCbZ65M.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "아이스초코",
+        "volume": 590.0,
+        "sugar_content": 31.0,
+        "calories": 308.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630152146_1656570106629_4i6msus9Kh.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "녹차라떼",
+        "volume": 590.0,
+        "sugar_content": 21.2,
+        "calories": 288.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630152307_1656570187902_evYKXmfXYZ.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "로얄밀크티라떼",
+        "volume": 590.0,
+        "sugar_content": 20.2,
+        "calories": 254.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171803_1656663483909_okELc62jVb.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "아메리카노",
+        "volume": 590.0,
+        "sugar_content": 0.0,
+        "calories": 12.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170226_1717056146401_hBg3lcHJZi.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "티라미수라떼",
+        "volume": 590.0,
+        "sugar_content": 38.4,
+        "calories": 419.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170545_1717056345226_n5wHtxbDVe.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "메가리카노",
+        "volume": 944.0,
+        "sugar_content": 0.0,
+        "calories": 16.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630162318_1656573798017_43JQ0t0JCi.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "티라미수라떼",
+        "volume": 590.0,
+        "sugar_content": 37.8,
+        "calories": 400.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630162717_1656574037958_MK_IcEfyCf.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "꿀아메리카노",
+        "volume": 590.0,
+        "sugar_content": 30.4,
+        "calories": 172.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170726_1717056446658_ZXFfXnLsyL.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "바닐라라떼",
+        "volume": 590.0,
+        "sugar_content": 12.6,
+        "calories": 231.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170148_1717056108816_bNE1RNOmUe.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "바닐라아메리카노",
+        "volume": 590.0,
+        "sugar_content": 19.0,
+        "calories": 84.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170132_1717056092499_sl2j0UG7a5.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "연유라떼",
+        "volume": 590.0,
+        "sugar_content": 32.8,
+        "calories": 321.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170250_1717056170576_fXQTypW2OD.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "카라멜마끼아또",
+        "volume": 590.0,
+        "sugar_content": 20.9,
+        "calories": 244.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170322_1717056202146__XrCiU7ylC.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "카페라떼",
+        "volume": 590.0,
+        "sugar_content": 10.8,
+        "calories": 175.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170338_1717056218882_JWELczC_Jv.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "카페모카",
+        "volume": 590.0,
+        "sugar_content": 35.5,
+        "calories": 401.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170350_1717056230823_4lk2N6tunJ.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "카푸치노",
+        "volume": 590.0,
+        "sugar_content": 3.4,
+        "calories": 145.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170400_1717056240256_FR9uqv88P4.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "콜드브루라떼",
+        "volume": 590.0,
+        "sugar_content": 2.1,
+        "calories": 164.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170518_1717056318803_ZuvOgsGady.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "콜드브루오리지널",
+        "volume": 590.0,
+        "sugar_content": 0.0,
+        "calories": 10.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170501_1717056301242_aHYbhH2BLY.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "헤이즐넛라떼",
+        "volume": 590.0,
+        "sugar_content": 9.7,
+        "calories": 240.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170648_1717056408270_ny2AcT9ZED.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "헤이즐넛아메리카노",
+        "volume": 590.0,
+        "sugar_content": 9.5,
+        "calories": 82.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170634_1717056394144_1fbkDYIhDT.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "꿀아메리카노",
+        "volume": 708.0,
+        "sugar_content": 30.6,
+        "calories": 162.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165049_1656575449464_E1DEXFVNdW.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "바닐라라떼",
+        "volume": 590.0,
+        "sugar_content": 20.3,
+        "calories": 244.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430103952_1714441192422_MJalDENv6C.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "바닐라아메리카노",
+        "volume": 708.0,
+        "sugar_content": 6.9,
+        "calories": 121.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165235_1656575555877_RSKgcHXQl3.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "카라멜마끼아또",
+        "volume": 590.0,
+        "sugar_content": 18.5,
+        "calories": 243.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165339_1656575619040_5XSmRW4GJT.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "카페라떼",
+        "volume": 590.0,
+        "sugar_content": 9.2,
+        "calories": 145.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430104038_1714441238799_kNV7Mr4Ne2.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "카페모카",
+        "volume": 590.0,
+        "sugar_content": 30.6,
+        "calories": 318.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165537_1656575737487_Bxg3VBe7i4.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "카푸치노",
+        "volume": 590.0,
+        "sugar_content": 1.1,
+        "calories": 132.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171815_1656663495020_hBTogoFiaK.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "콜드브루라떼",
+        "volume": 590.0,
+        "sugar_content": 2.3,
+        "calories": 167.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165729_1656575849505_E5EJrrZjIF.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "콜드브루오리지널",
+        "volume": 590.0,
+        "sugar_content": 0.0,
+        "calories": 7.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165819_1656575899792_ItfqiNDhPh.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "헤이즐넛라떼",
+        "volume": 590.0,
+        "sugar_content": 10.8,
+        "calories": 237.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430104100_1714441260123_buRoeWVyce.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "헤이즐넛아메리카노",
+        "volume": 708.0,
+        "sugar_content": 15.8,
+        "calories": 113.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630170029_1656576029152_FYWEDbVbFT.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "큐브라떼",
+        "volume": 590.0,
+        "sugar_content": 15.0,
+        "calories": 304.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630170153_1656576113197_DlT_PINcn9.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "아메리카노",
+        "volume": 708.0,
+        "sugar_content": 0.0,
+        "calories": 12.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630171805_1656577085458_7skvYFEJwH.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "녹차프라페",
+        "volume": 590.0,
+        "sugar_content": 66.0,
+        "calories": 584.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172012_1656577212055_xI5BNzVrBv.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "딸기요거트스무디",
+        "volume": 590.0,
+        "sugar_content": 62.5,
+        "calories": 388.8,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172121_1656577281098_SlUU5dNwy3.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "딸기퐁크러쉬",
+        "volume": 590.0,
+        "sugar_content": 45.9,
+        "calories": 536.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172329_1656577409159_FwpVWoa5tq.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "리얼초코프라페",
+        "volume": 590.0,
+        "sugar_content": 70.2,
+        "calories": 651.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430103939_1714441179730_WWfmlKNbp8.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "망고요거트스무디",
+        "volume": 590.0,
+        "sugar_content": 56.4,
+        "calories": 365.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172551_1656577551617_kS42LIFWUP.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "민트프라페",
+        "volume": 590.0,
+        "sugar_content": 64.7,
+        "calories": 620.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172654_1656577614651_YWpnhL4tWC.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "바나나퐁크러쉬",
+        "volume": 590.0,
+        "sugar_content": 64.2,
+        "calories": 593.8,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172744_1656577664430_xxgPSw_6dO.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "스트로베리치즈홀릭",
+        "volume": 590.0,
+        "sugar_content": 69.4,
+        "calories": 566.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430104004_1714441204742_hnv5cFIQUI.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "초코허니퐁크러쉬",
+        "volume": 590.0,
+        "sugar_content": 58.1,
+        "calories": 577.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173152_1656577913000_wcKkf0OiR_.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "커피프라페",
+        "volume": 590.0,
+        "sugar_content": 28.9,
+        "calories": 420.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430104048_1714441248632_TioHpXFOxq.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "플레인요거트스무디",
+        "volume": 590.0,
+        "sugar_content": 84.5,
+        "calories": 514.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173441_1656578081783_m2stsUQfSH.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "슈크림허니퐁크러쉬",
+        "volume": 590.0,
+        "sugar_content": 49.5,
+        "calories": 568.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173702_1656578222665_URDbIWF3Ge.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "플레인퐁크러쉬",
+        "volume": 590.0,
+        "sugar_content": 46.2,
+        "calories": 468.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630174120_1656578480425_zDgsPabCUA.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "라임모히또",
+        "volume": 708.0,
+        "sugar_content": 45.8,
+        "calories": 278.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630175423_1656579263944_ycn4t3hwxa.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "레몬에이드",
+        "volume": 708.0,
+        "sugar_content": 35.1,
+        "calories": 196.8,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630175526_1656579326607_5YlsYvYbOp.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "블루레몬에이드",
+        "volume": 708.0,
+        "sugar_content": 36.5,
+        "calories": 225.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630175800_1656579480786_aPTTGq1vzy.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "자몽에이드",
+        "volume": 708.0,
+        "sugar_content": 40.7,
+        "calories": 203.8,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630180039_1656579639972_oL9vkikWmx.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "청포도에이드",
+        "volume": 708.0,
+        "sugar_content": 57.6,
+        "calories": 305.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430104026_1714441226905_c1UnU7YKVm.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "유니콘매직에이드(블루)",
+        "volume": 708.0,
+        "sugar_content": 48.6,
+        "calories": 275.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630182155_1656580915892_BEA6u2b3Ym.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "체리콕",
+        "volume": 708.0,
+        "sugar_content": 55.6,
+        "calories": 323.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630182321_1656581001230__fv6UmKGjl.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "메가에이드",
+        "volume": 708.0,
+        "sugar_content": 53.9,
+        "calories": 292.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630183110_1656581470280_dcyjVzPTSr.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "녹차",
+        "volume": 590.0,
+        "sugar_content": 0.0,
+        "calories": 0.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170753_1717056473788_GukXTcHM31.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "사과유자차",
+        "volume": 590.0,
+        "sugar_content": 47.0,
+        "calories": 227.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170203_1717056123907_V0Tp_mXBva.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "얼그레이",
+        "volume": 590.0,
+        "sugar_content": 0.0,
+        "calories": 0.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170237_1717056157304_BzLWIGSMjU.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "캐모마일",
+        "volume": 590.0,
+        "sugar_content": 0.0,
+        "calories": 0.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170414_1717056254221_RprGQli3VT.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "페퍼민트",
+        "volume": 590.0,
+        "sugar_content": 0.0,
+        "calories": 0.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170555_1717056355078_D4MC6U3WaK.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "녹차",
+        "volume": 708.0,
+        "sugar_content": 0.0,
+        "calories": 1.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113057_1656642657113_ORWSdJHBUa.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "사과유자차",
+        "volume": 708.0,
+        "sugar_content": 37.5,
+        "calories": 242.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113153_1656642713022_k19Le9pVJ4.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "얼그레이",
+        "volume": 708.0,
+        "sugar_content": 0.0,
+        "calories": 1.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113256_1656642776818_NVdHeZhSwJ.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "캐모마일",
+        "volume": 708.0,
+        "sugar_content": 0.0,
+        "calories": 1.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113429_1656642869511_RmwB3ABBGy.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "페퍼민트",
+        "volume": 708.0,
+        "sugar_content": 0.0,
+        "calories": 2.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113900_1656643140203_8gqFs23KzD.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "복숭아아이스티",
+        "volume": 708.0,
+        "sugar_content": 62.6,
+        "calories": 297.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701114038_1656643238601_tmNjGB3jsD.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "유자차",
+        "volume": 590.0,
+        "sugar_content": 47.9,
+        "calories": 286.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170301_1717056181452_hpFUoWkIKD.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "레몬차",
+        "volume": 590.0,
+        "sugar_content": 56.1,
+        "calories": 275.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170106_1717056066020_QodGX5b3nV.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "자몽차",
+        "volume": 590.0,
+        "sugar_content": 58.1,
+        "calories": 294.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170311_1717056191481_4KHkleuPg9.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "허니자몽블랙티",
+        "volume": 590.0,
+        "sugar_content": 53.6,
+        "calories": 302.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170619_1717056379663_5EUdHPk6Hb.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "유자차",
+        "volume": 708.0,
+        "sugar_content": 59.4,
+        "calories": 303.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701114618_1656643578419_AJ7yOGg1se.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "레몬차",
+        "volume": 708.0,
+        "sugar_content": 68.9,
+        "calories": 327.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701125401_1656647641310_rTz7X5_dkK.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "자몽차",
+        "volume": 708.0,
+        "sugar_content": 58.5,
+        "calories": 297.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701125500_1656647700753_PLbN1hunjZ.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "허니자몽블랙티",
+        "volume": 708.0,
+        "sugar_content": 42.7,
+        "calories": 265.8,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701125611_1656647771494_C6SS0q6aeS.jpg"
+    },
+    {
+        "cafe_id": 1,
+        "drink_name": "유니콘프라페",
+        "volume": 590.0,
+        "sugar_content": 50.4,
+        "calories": 479.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173830_1656578310115_xVPHpZeHkl.jpg"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "더블에스프레소",
+        "volume": 60.0,
+        "sugar_content": 0.0,
+        "calories": 22.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%8D%94%EB%B8%94%EC%97%90%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C-2-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "아메리카노(HOT)",
+        "volume": 472.0,
+        "sugar_content": 0.0,
+        "calories": 14.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EC%95%97%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "아메리카노(ICED)",
+        "volume": 708.0,
+        "sugar_content": 0.0,
+        "calories": 13.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EC%95%97%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "원조커피(HOT)",
+        "volume": 472.0,
+        "sugar_content": 57.0,
+        "calories": 471.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EC%9B%90%EC%A1%B0%EC%BB%A4%ED%94%BC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "원조커피(ICED)",
+        "volume": 708.0,
+        "sugar_content": 48.0,
+        "calories": 425.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EC%9B%90%EC%A1%B0%EC%BB%A4%ED%94%BC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "원조커피 제로슈거(HOT)",
+        "volume": 472.0,
+        "sugar_content": 0.0,
+        "calories": 372.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%9B%90%EC%A1%B0%EC%BB%A4%ED%94%BC%ED%95%AB-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "원조커피 제로슈거(ICED)",
+        "volume": 708.0,
+        "sugar_content": 0.0,
+        "calories": 327.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EC%9B%90%EC%A1%B0%EC%BB%A4%ED%94%BC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "슈크리미 라떼(HOT)",
+        "volume": 472.0,
+        "sugar_content": 28.0,
+        "calories": 479.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/05/%EC%8A%88%ED%81%AC%EB%A6%AC%EB%AF%B8-%EB%9D%BC%EB%96%BCHOT-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "슈크리미 라떼(ICED)",
+        "volume": 472.0,
+        "sugar_content": 25.0,
+        "calories": 410.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/05/%EC%8A%88%ED%81%AC%EB%A6%AC%EB%AF%B8-%EB%9D%BC%EB%96%BCICED-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "슈크리미 커피쉐이크",
+        "volume": 472.0,
+        "sugar_content": 50.0,
+        "calories": 482.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/05/%EC%8A%88%ED%81%AC%EB%A6%AC%EB%AF%B8-%EC%BB%A4%ED%94%BC%EC%89%90%EC%9D%B4%ED%81%AC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "달달연유라떼(HOT)",
+        "volume": 472.0,
+        "sugar_content": 62.0,
+        "calories": 491.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EB%8B%AC%EB%8B%AC%EC%97%B0%EC%9C%A0%EB%9D%BC%EB%96%BC-1-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "달달연유라떼(ICED)",
+        "volume": 708.0,
+        "sugar_content": 54.0,
+        "calories": 394.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EB%8B%AC%EB%8B%AC%EC%97%B0%EC%9C%A0%EB%9D%BC%EB%96%BC_-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "카페라떼(HOT)",
+        "volume": 472.0,
+        "sugar_content": 9.0,
+        "calories": 253.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EB%B9%BDs%EB%9D%BC%EB%96%BC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "카페라떼(ICED)",
+        "volume": 708.0,
+        "sugar_content": 10.0,
+        "calories": 198.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%B9%BDs-%EB%9D%BC%EB%96%BCICED-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "블랙펄카페라떼(ICED)",
+        "volume": 708.0,
+        "sugar_content": 59.0,
+        "calories": 429.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%B8%94%EB%9E%99%ED%8E%84%EC%B9%B4%ED%8E%98%EB%9D%BC%EB%96%BC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "바닐라라떼(HOT)",
+        "volume": 472.0,
+        "sugar_content": 35.0,
+        "calories": 351.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EB%B0%94%EB%8B%90%EB%9D%BC%EB%9D%BC%EB%96%BC-1-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "바닐라라떼(ICED)",
+        "volume": 708.0,
+        "sugar_content": 38.0,
+        "calories": 433.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EB%B0%94%EB%8B%90%EB%9D%BC%EB%9D%BC%EB%96%BC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "카페모카(HOT)",
+        "volume": 472.0,
+        "sugar_content": 32.0,
+        "calories": 319.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EC%B9%B4%ED%8E%98%EB%AA%A8%EC%B9%B4-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "카페모카(ICED)",
+        "volume": 708.0,
+        "sugar_content": 36.0,
+        "calories": 365.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EC%B9%B4%ED%8E%98%EB%AA%A8%EC%B9%B4-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "카라멜마키아또(HOT)",
+        "volume": 472.0,
+        "sugar_content": 40.0,
+        "calories": 354.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EC%B9%B4%EB%9D%BC%EB%A9%9C%EB%A7%88%ED%82%A4%EC%95%84%EB%98%90-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "카라멜마키아또(ICED)",
+        "volume": 708.0,
+        "sugar_content": 43.0,
+        "calories": 382.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EC%B9%B4%EB%9D%BC%EB%A9%9C%EB%A7%88%ED%82%A4%EC%95%84%EB%98%90-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "바나나 카페라떼(HOT)",
+        "volume": 472.0,
+        "sugar_content": 40.0,
+        "calories": 297.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EB%B0%94%EB%82%98%EB%82%98%EC%B9%B4%ED%8E%98%EB%9D%BC%EB%96%BCHOT-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "바나나 카페라떼(ICED)",
+        "volume": 708.0,
+        "sugar_content": 39.0,
+        "calories": 303.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EB%B0%94%EB%82%98%EB%82%98%EC%B9%B4%ED%8E%98%EB%9D%BC%EB%96%BCICED-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "바나나 커피쉐이크",
+        "volume": 708.0,
+        "sugar_content": 63.0,
+        "calories": 380.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EB%B0%94%EB%82%98%EB%82%98%EC%BB%A4%ED%94%BC%EC%89%90%EC%9D%B4%ED%81%ACICED-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "아이스크림카페라떼(ICED)",
+        "volume": 708.0,
+        "sugar_content": 32.0,
+        "calories": 357.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/05/%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EC%B9%B4%ED%8E%98%EB%9D%BC%EB%96%BC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "아이스크림바닐라라떼(ICED)",
+        "volume": 708.0,
+        "sugar_content": 49.0,
+        "calories": 520.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/05/%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EB%B0%94%EB%8B%90%EB%9D%BC%EB%9D%BC%EB%96%BC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "아이스크림카페모카(ICED)",
+        "volume": 708.0,
+        "sugar_content": 50.0,
+        "calories": 512.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/05/%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EC%B9%B4%ED%8E%98%EB%AA%A8%EC%B9%B4-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "콜드브루(ICED)",
+        "volume": 708.0,
+        "sugar_content": 0.0,
+        "calories": 15.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8-1-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "콜드브루(HOT)",
+        "volume": 472.0,
+        "sugar_content": 0.0,
+        "calories": 15.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/02/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8HOT-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "디카페인 콜드브루(ICED)",
+        "volume": 708.0,
+        "sugar_content": 0.0,
+        "calories": 11.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%94%94%EC%B9%B4%ED%8E%98%EC%9D%B8-%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8-1-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "콜드브루라떼(ICED)",
+        "volume": 708.0,
+        "sugar_content": 9.0,
+        "calories": 168.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%EB%9D%BC%EB%96%BC-1-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "콜드브루라떼(HOT)",
+        "volume": 472.0,
+        "sugar_content": 13.0,
+        "calories": 206.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/02/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%EB%9D%BC%EB%96%BCHOT-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "디카페인 콜드브루라떼(ICED)",
+        "volume": 708.0,
+        "sugar_content": 9.0,
+        "calories": 162.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%EB%9D%BC%EB%96%BC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "콜드브루라떼(연유)(ICED)",
+        "volume": 708.0,
+        "sugar_content": 36.0,
+        "calories": 379.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/01/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%EC%97%B0%EC%9C%A0%EB%9D%BC%EB%96%BC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "콜드브루라떼(연유)(HOT)",
+        "volume": 472.0,
+        "sugar_content": 39.0,
+        "calories": 371.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/02/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%EC%97%B0%EC%9C%A0%EB%9D%BC%EB%96%BCHOT-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "디카페인 콜드브루라떼(연유)(ICED)",
+        "volume": 708.0,
+        "sugar_content": 40.0,
+        "calories": 357.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/01/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%EC%97%B0%EC%9C%A0%EB%9D%BC%EB%96%BC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "콜드브루라떼(흑당)(ICED)",
+        "volume": 708.0,
+        "sugar_content": 44.0,
+        "calories": 312.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/01/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%ED%9D%91%EB%8B%B9%EB%9D%BC%EB%96%BC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "콜드브루라떼(흑당)(HOT)",
+        "volume": 472.0,
+        "sugar_content": 42.0,
+        "calories": 334.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/02/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%ED%9D%91%EB%8B%B9%EB%9D%BC%EB%96%BCHOT-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "디카페인 콜드브루라떼(흑당)(ICED)",
+        "volume": 708.0,
+        "sugar_content": 45.0,
+        "calories": 280.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/01/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%ED%9D%91%EB%8B%B9%EB%9D%BC%EB%96%BC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "아이스티샷추가(아샷추)",
+        "volume": 708.0,
+        "sugar_content": 64.0,
+        "calories": 265.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EC%95%84%EC%83%B7%EC%B6%94-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "빽사이즈 아메리카노(ICED)",
+        "volume": 944.0,
+        "sugar_content": 0.0,
+        "calories": 19.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%95%97%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8-32oz-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "빽사이즈 원조커피(ICED)",
+        "volume": 944.0,
+        "sugar_content": 73.0,
+        "calories": 646.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%9B%90%EC%A1%B0%EC%BB%A4%ED%94%BC-32oz-%EA%B0%84%EC%96%BC%EC%9D%8C-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "빽사이즈 원조커피 제로슈거(ICED)",
+        "volume": 944.0,
+        "sugar_content": 0.0,
+        "calories": 497.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%9B%90%EC%A1%B0%EC%BB%A4%ED%94%BC-32oz-%EA%B0%84%EC%96%BC%EC%9D%8C-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "빽사이즈 카페라떼(ICED)",
+        "volume": 944.0,
+        "sugar_content": 17.0,
+        "calories": 278.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EB%B9%BDs-%EB%9D%BC%EB%96%BC-32oz-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "빽사이즈 아이스티샷추가(ICED)",
+        "volume": 944.0,
+        "sugar_content": 68.0,
+        "calories": 297.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%95%84%EC%83%B7%EC%B6%94-32oz-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "멜론소다",
+        "volume": 472.0,
+        "sugar_content": 86.0,
+        "calories": 455.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/05/%EB%A9%9C%EB%A1%A0%EC%86%8C%EB%8B%A4-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "쿨라임스무디",
+        "volume": 472.0,
+        "sugar_content": 0.0,
+        "calories": 70.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/04/%EC%BF%A8%EB%9D%BC%EC%9E%84%EC%8A%A4%EB%AC%B4%EB%94%94-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "쿨라임에이드",
+        "volume": 472.0,
+        "sugar_content": 0.0,
+        "calories": 43.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/04/%EC%BF%A8%EB%9D%BC%EC%9E%84%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "깔라만시스무디",
+        "volume": 472.0,
+        "sugar_content": 0.0,
+        "calories": 114.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/04/%EA%B9%94%EB%9D%BC%EB%A7%8C%EC%8B%9C%EC%8A%A4%EB%AC%B4%EB%94%94-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "성주참외스무디",
+        "volume": 472.0,
+        "sugar_content": 6.0,
+        "calories": 261.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/04/%EC%84%B1%EC%A3%BC%EC%B0%B8%EC%99%B8%EA%BF%80%EC%8A%A4%EB%AC%B4%EB%94%94-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "소울트로닉에이드(ICED)",
+        "volume": 472.0,
+        "sugar_content": 61.0,
+        "calories": 263.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/03/%EC%86%8C%EC%9A%B8%ED%8A%B8%EB%A1%9C%EB%8B%89%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "트로피칼팝핑스무디(ICED)",
+        "volume": 472.0,
+        "sugar_content": 96.0,
+        "calories": 455.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/03/%ED%8A%B8%EB%A1%9C%ED%94%BC%EC%B9%BC%ED%8C%9D%ED%95%91%EC%8A%A4%EB%AC%B4%EB%94%94-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "패션후르츠스무디",
+        "volume": 594.0,
+        "sugar_content": 75.0,
+        "calories": 327.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/06/%ED%8C%A8%EC%85%98%ED%9B%84%EB%A5%B4%EC%B8%A0%EC%8A%A4%EB%AC%B4%EB%94%94_thumb-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "망고패션스무디",
+        "volume": 617.0,
+        "sugar_content": 86.0,
+        "calories": 415.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/06/%EB%A7%9D%EA%B3%A0%ED%8C%A8%EC%85%98%EC%8A%A4%EB%AC%B4%EB%94%94_thumb-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "수정과(HOT)",
+        "volume": 472.0,
+        "sugar_content": 70.0,
+        "calories": 302.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/02/%EC%88%98%EC%A0%95%EA%B3%BC_hot-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "수정과(ICED)",
+        "volume": 708.0,
+        "sugar_content": 66.0,
+        "calories": 303.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/02/%EC%88%98%EC%A0%95%EA%B3%BC_iced-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "식혜(ICED)",
+        "volume": 708.0,
+        "sugar_content": 63.0,
+        "calories": 287.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/05/%EC%8B%9D%ED%98%9C-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "뱅쇼(HOT)",
+        "volume": 472.0,
+        "sugar_content": 46.0,
+        "calories": 223.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/11/%EB%B1%85%EC%87%BChot_thumb-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "뱅쇼(ICED)",
+        "volume": 708.0,
+        "sugar_content": 46.0,
+        "calories": 210.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/11/%EB%B1%85%EC%87%BCiced_thumb-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "고구마라떼(HOT)",
+        "volume": 472.0,
+        "sugar_content": 71.0,
+        "calories": 463.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EA%B3%A0%EA%B5%AC%EB%A7%88%EB%9D%BC%EB%96%BC_%ED%95%AB_450x558-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "고구마라떼(ICED)",
+        "volume": 708.0,
+        "sugar_content": 56.0,
+        "calories": 413.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EA%B3%A0%EA%B5%AC%EB%A7%88%EB%9D%BC%EB%96%BC_%EC%95%84%EC%9D%B4%EC%8A%A4_450x558-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "고구마스무디",
+        "volume": 708.0,
+        "sugar_content": 70.0,
+        "calories": 481.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EA%B3%A0%EA%B5%AC%EB%A7%88%EC%8A%A4%EB%AC%B4%EB%94%94_%EC%95%84%EC%9D%B4%EC%8A%A4_450x558-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "꿀밤라떼(HOT)",
+        "volume": 472.0,
+        "sugar_content": 54.0,
+        "calories": 513.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EA%BF%80%EB%B0%A4%EB%9D%BC%EB%96%BC_%ED%95%AB_450x558-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "꿀밤라떼(ICED)",
+        "volume": 708.0,
+        "sugar_content": 50.0,
+        "calories": 436.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EA%BF%80%EB%B0%A4%EB%9D%BC%EB%96%BC_%EC%95%84%EC%9D%B4%EC%8A%A4_450x558-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "바나나 라떼(HOT)",
+        "volume": 472.0,
+        "sugar_content": 7.0,
+        "calories": 156.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EB%B0%94%EB%82%98%EB%82%98%EB%9D%BC%EB%96%BCHOT-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "바나나 라떼(ICED)",
+        "volume": 708.0,
+        "sugar_content": 7.0,
+        "calories": 154.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EB%B0%94%EB%82%98%EB%82%98%EB%9D%BC%EB%96%BCICED-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "바나나 밀크쉐이크",
+        "volume": 708.0,
+        "sugar_content": 5.0,
+        "calories": 216.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EB%B0%94%EB%82%98%EB%82%98%EB%B0%80%ED%81%AC%EC%89%90%EC%9D%B4%ED%81%ACICED-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "아이스크러시 파인애플",
+        "volume": 708.0,
+        "sugar_content": 94.0,
+        "calories": 384.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/05/icecrush_pine-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "아이스크러시 오렌지",
+        "volume": 708.0,
+        "sugar_content": 102.0,
+        "calories": 441.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/05/icecrush_orange-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "아이스크러시 멜론",
+        "volume": 708.0,
+        "sugar_content": 80.0,
+        "calories": 349.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/05/icecrush_melon-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "아이스크러시 콜라",
+        "volume": 708.0,
+        "sugar_content": 104.0,
+        "calories": 448.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/05/icecrush_coke-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "우리포도주스(ICED)",
+        "volume": 708.0,
+        "sugar_content": 44.0,
+        "calories": 188.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/09/%EC%9A%B0%EB%A6%AC%ED%8F%AC%EB%8F%84%EC%A3%BC%EC%8A%A4-450x588-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "제주감귤주스(ICED)",
+        "volume": 708.0,
+        "sugar_content": 41.0,
+        "calories": 237.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/01/%EC%A0%9C%EC%A3%BC%EA%B0%90%EA%B7%A4%EC%A3%BC%EC%8A%A4_thumb-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "우리수박주스(ICED)",
+        "volume": 650.0,
+        "sugar_content": 53.0,
+        "calories": 262.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EC%88%98%EB%B0%95%EC%A3%BC%EC%8A%A4-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "블루캔디밀크쉐이크(ICED)",
+        "volume": 472.0,
+        "sugar_content": 61.0,
+        "calories": 483.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/03/%EB%B8%94%EB%A3%A8%EC%BA%94%EB%94%94%EB%B0%80%ED%81%AC%EC%89%90%EC%9D%B4%ED%81%AC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "블루캔디소다(ICED)",
+        "volume": 708.0,
+        "sugar_content": 52.0,
+        "calories": 225.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/05/%EB%B8%94%EB%A3%A8%EC%BA%94%EB%94%94%EC%86%8C%EB%8B%A4-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "초코라떼(HOT)",
+        "volume": 472.0,
+        "sugar_content": 45.0,
+        "calories": 342.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "초코라떼(ICED)",
+        "volume": 708.0,
+        "sugar_content": 56.0,
+        "calories": 387.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "녹차라떼(HOT)",
+        "volume": 472.0,
+        "sugar_content": 63.0,
+        "calories": 481.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EB%85%B9%EC%B0%A8%EB%9D%BC%EB%96%BC-1-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "녹차라떼(ICED)",
+        "volume": 708.0,
+        "sugar_content": 49.0,
+        "calories": 361.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EB%85%B9%EC%B0%A8%EB%9D%BC%EB%96%BC-2-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "민트초코라떼(HOT)",
+        "volume": 472.0,
+        "sugar_content": 58.0,
+        "calories": 413.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EB%AF%BC%ED%8A%B8%EC%B4%88%EC%BD%94%EB%9D%BC%EB%96%BC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "민트초코라떼(ICED)",
+        "volume": 708.0,
+        "sugar_content": 43.0,
+        "calories": 498.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EB%AF%BC%ED%8A%B8%EC%B4%88%EC%BD%94%EB%9D%BC%EB%96%BC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "토피넛라떼(HOT)",
+        "volume": 472.0,
+        "sugar_content": 19.0,
+        "calories": 411.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%ED%86%A0%ED%94%BC%EB%84%9B%EB%9D%BC%EB%96%BC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "토피넛라떼(ICED)",
+        "volume": 708.0,
+        "sugar_content": 16.0,
+        "calories": 469.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%ED%86%A0%ED%94%BC%EB%84%9B%EB%9D%BC%EB%96%BC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "블랙펄라떼(ICED)",
+        "volume": 708.0,
+        "sugar_content": 51.0,
+        "calories": 397.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EB%B8%94%EB%9E%99%ED%8E%84%EB%9D%BC%EB%96%BC_-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "미숫가루",
+        "volume": 708.0,
+        "sugar_content": 38.0,
+        "calories": 308.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EB%AF%B8%EC%88%AB%EA%B0%80%EB%A3%A8-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "체리콕콕(ICED)",
+        "volume": 708.0,
+        "sugar_content": 72.0,
+        "calories": 290.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EC%B2%B4%EB%A6%AC%EC%BD%95%EC%BD%95-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "밀크티(HOT)",
+        "volume": 472.0,
+        "sugar_content": 35.0,
+        "calories": 313.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EB%B0%80%ED%81%AC%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "밀크티(ICED)",
+        "volume": 708.0,
+        "sugar_content": 37.0,
+        "calories": 353.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EB%B0%80%ED%81%AC%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "블랙펄밀크티(ICED)",
+        "volume": 708.0,
+        "sugar_content": 60.0,
+        "calories": 513.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EB%B8%94%EB%9E%99%ED%8E%84%EB%B0%80%ED%81%AC%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "페퍼민트티(HOT)",
+        "volume": 472.0,
+        "sugar_content": 0.0,
+        "calories": 1.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2021/07/HOT-%ED%8E%98%ED%8D%BC%EB%AF%BC%ED%8A%B8%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "페퍼민트티(ICED)",
+        "volume": 708.0,
+        "sugar_content": 0.0,
+        "calories": 1.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2021/07/ICED-%ED%8E%98%ED%8D%BC%EB%AF%BC%ED%8A%B8%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "황금캐모마일티(HOT)",
+        "volume": 472.0,
+        "sugar_content": 0.0,
+        "calories": 7.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%ED%99%A9%EA%B8%88%EC%BA%90%EB%AA%A8%EB%A7%88%EC%9D%BC%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "황금캐모마일티(ICED)",
+        "volume": 708.0,
+        "sugar_content": 0.0,
+        "calories": 8.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%ED%99%A9%EA%B8%88%EC%BA%90%EB%AA%A8%EB%A7%88%EC%9D%BC%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "깔라만시티(HOT)",
+        "volume": 472.0,
+        "sugar_content": 66.0,
+        "calories": 268.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EA%B9%94%EB%9D%BC%EB%A7%8C%EC%8B%9C%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "깔라만시티(ICED)",
+        "volume": 708.0,
+        "sugar_content": 59.0,
+        "calories": 243.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/04/%EA%B9%94%EB%9D%BC%EB%A7%8C%EC%8B%9C%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "달콤아이스티",
+        "volume": 708.0,
+        "sugar_content": 63.0,
+        "calories": 267.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EB%8B%AC%EC%BD%A4%EC%95%84%EC%9D%B4%EC%8A%A4%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "레몬티(HOT)",
+        "volume": 472.0,
+        "sugar_content": 66.0,
+        "calories": 272.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EB%A0%88%EB%AA%AC%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "레몬티(ICED)",
+        "volume": 708.0,
+        "sugar_content": 67.0,
+        "calories": 277.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EB%A0%88%EB%AA%AC%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "피치우롱스위티(HOT)",
+        "volume": 472.0,
+        "sugar_content": 35.0,
+        "calories": 150.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%ED%94%BC%EC%B9%98%EC%9A%B0%EB%A1%B1%EC%8A%A4%EC%9C%84%ED%8B%B0-1-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "피치우롱스위티(ICED)",
+        "volume": 708.0,
+        "sugar_content": 32.0,
+        "calories": 150.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%ED%94%BC%EC%B9%98%EC%9A%B0%EB%A1%B1%EC%8A%A4%EC%9C%84%ED%8B%B0-1-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "우롱티(HOT)",
+        "volume": 472.0,
+        "sugar_content": 0.0,
+        "calories": 7.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EC%9A%B0%EB%A1%B1%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "우롱티(ICED)",
+        "volume": 708.0,
+        "sugar_content": 0.0,
+        "calories": 3.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EC%9A%B0%EB%A1%B1%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "레몬얼그레이티(HOT)",
+        "volume": 472.0,
+        "sugar_content": 25.0,
+        "calories": 110.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EB%A0%88%EB%AA%AC%EC%96%BC%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "레몬얼그레이티(ICED)",
+        "volume": 708.0,
+        "sugar_content": 25.0,
+        "calories": 110.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EB%A0%88%EB%AA%AC%EC%96%BC%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "오렌지자몽블랙티(HOT)",
+        "volume": 472.0,
+        "sugar_content": 25.0,
+        "calories": 110.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EC%98%A4%EB%A0%8C%EC%A7%80%EC%9E%90%EB%AA%BD%EB%B8%94%EB%9E%99%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "오렌지자몽블랙티(ICED)",
+        "volume": 708.0,
+        "sugar_content": 25.0,
+        "calories": 110.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EC%98%A4%EB%A0%8C%EC%A7%80%EC%9E%90%EB%AA%BD%EB%B8%94%EB%9E%99%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "유자티(ICED)",
+        "volume": 708.0,
+        "sugar_content": 64.0,
+        "calories": 261.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EC%9C%A0%EC%9E%90%ED%8B%B0_%EC%95%84%EC%9D%B4%EC%8A%A4-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "자몽티(HOT)",
+        "volume": 472.0,
+        "sugar_content": 66.0,
+        "calories": 281.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EC%9E%90%EB%AA%BD%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "자몽티(ICED)",
+        "volume": 708.0,
+        "sugar_content": 52.0,
+        "calories": 242.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EC%9E%90%EB%AA%BD%ED%8B%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "청포도플라워(ICED)",
+        "volume": 708.0,
+        "sugar_content": 52.0,
+        "calories": 220.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EC%B2%AD%ED%8F%AC%EB%8F%84%ED%94%8C%EB%9D%BC%EC%9B%8C-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "아이스미초(ICED)",
+        "volume": 708.0,
+        "sugar_content": 36.0,
+        "calories": 147.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EC%95%84%EC%9D%B4%EC%8A%A4%EB%AF%B8%EC%B4%88%EC%84%9D%EB%A5%98-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "딸기에이드(ICED)",
+        "volume": 708.0,
+        "sugar_content": 39.0,
+        "calories": 184.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/02/%EB%94%B8%EA%B8%B0%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "레모네이드(ICED)",
+        "volume": 708.0,
+        "sugar_content": 60.0,
+        "calories": 246.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EB%A0%88%EB%AA%A8%EB%84%A4%EC%9D%B4%EB%93%9C-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "청포도에이드(ICED)",
+        "volume": 708.0,
+        "sugar_content": 56.0,
+        "calories": 234.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EC%B2%AD%ED%8F%AC%EB%8F%84%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "깔라만시에이드(ICED)",
+        "volume": 708.0,
+        "sugar_content": 50.0,
+        "calories": 215.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EA%B9%94%EB%9D%BC%EB%A7%8C%EC%8B%9C%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "유자에이드(ICED)",
+        "volume": 708.0,
+        "sugar_content": 62.0,
+        "calories": 251.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EC%9C%A0%EC%9E%90%EC%97%90%EC%9D%B4%EB%93%9C-1-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "자몽에이드(ICED)",
+        "volume": 708.0,
+        "sugar_content": 61.0,
+        "calories": 258.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EC%9E%90%EB%AA%BD%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "복숭아에이드(ICED)",
+        "volume": 708.0,
+        "sugar_content": 54.0,
+        "calories": 241.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%B3%B5%EC%88%AD%EC%95%84%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "미초(석류)에이드(ICED)",
+        "volume": 708.0,
+        "sugar_content": 32.0,
+        "calories": 141.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%AF%B8%EC%B4%88%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "완전파인애플주스",
+        "volume": 472.0,
+        "sugar_content": 32.0,
+        "calories": 192.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%ED%8C%8C%EC%9D%B8%EC%95%A0%ED%94%8C-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "완전토마토주스",
+        "volume": 543.0,
+        "sugar_content": 36.0,
+        "calories": 159.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2021/12/%EC%99%84%EC%A0%84%ED%86%A0%EB%A7%88%ED%86%A0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "완전딸기주스(ICED)",
+        "volume": 708.0,
+        "sugar_content": 43.0,
+        "calories": 224.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EB%94%B8%EA%B8%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "완전망고주스(ICED)",
+        "volume": 708.0,
+        "sugar_content": 37.0,
+        "calories": 241.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EB%A7%9D%EA%B3%A0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "완전블루베리주스(ICED)",
+        "volume": 708.0,
+        "sugar_content": 49.0,
+        "calories": 231.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/04/%EB%B8%94%EB%A3%A8%EB%B2%A0%EB%A6%AC%EC%A3%BC%EC%8A%A4-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "블루베리요거트스무디(ICED)",
+        "volume": 708.0,
+        "sugar_content": 74.0,
+        "calories": 484.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/04/%EB%B8%94%EB%A3%A8%EB%B2%A0%EB%A6%AC%EC%9A%94%EA%B1%B0%ED%8A%B8%EC%8A%A4%EB%AC%B4%EB%94%94-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "밀크쉐이크(ICED)",
+        "volume": 708.0,
+        "sugar_content": 52.0,
+        "calories": 535.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%B0%80%ED%81%AC%EC%89%90%EC%9D%B4%ED%81%AC-2-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "플레인요거트스무디(ICED)",
+        "volume": 708.0,
+        "sugar_content": 94.0,
+        "calories": 494.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%ED%94%8C%EB%A0%88%EC%9D%B8%EC%9A%94%EA%B1%B0%ED%8A%B8%EC%8A%A4%EB%AC%B4%EB%94%94-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "딸기요거트스무디(ICED)",
+        "volume": 708.0,
+        "sugar_content": 45.0,
+        "calories": 448.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%94%B8%EA%B8%B0%EC%9A%94%EA%B1%B0%ED%8A%B8%EC%8A%A4%EB%AC%B4%EB%94%94-2-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "빽사이즈 초코라떼(ICED)",
+        "volume": 944.0,
+        "sugar_content": 90.0,
+        "calories": 555.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/04/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94-32oz-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "빽사이즈 달콤아이스티(ICED)",
+        "volume": 944.0,
+        "sugar_content": 95.0,
+        "calories": 406.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/04/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EB%8B%AC%EC%BD%A4%EC%95%84%EC%9D%B4%EC%8A%A4%ED%8B%B0-32oz-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "딸기라떼(ICED)",
+        "volume": 708.0,
+        "sugar_content": 54.0,
+        "calories": 331.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/02/%EB%94%B8%EA%B8%B0%EB%9D%BC%EB%96%BC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "원조빽스치노(BASIC)",
+        "volume": 625.0,
+        "sugar_content": 75.0,
+        "calories": 578.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%9B%90%EC%A1%B0%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "원조빽스치노(SOFT)",
+        "volume": 765.0,
+        "sugar_content": 87.0,
+        "calories": 785.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%9B%90%EC%A1%B0%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "딸기바나나빽스치노(BASIC)",
+        "volume": 625.0,
+        "sugar_content": 93.0,
+        "calories": 500.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EB%94%B8%EA%B8%B0%EB%B0%94%EB%82%98%EB%82%98-BASIC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "딸기바나나빽스치노(SOFT)",
+        "volume": 765.0,
+        "sugar_content": 138.0,
+        "calories": 685.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EB%94%B8%EA%B8%B0%EB%B0%94%EB%82%98%EB%82%98-SOFT-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "초코바나나빽스치노(BASIC)",
+        "volume": 625.0,
+        "sugar_content": 72.0,
+        "calories": 607.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94%EB%B0%94%EB%82%98%EB%82%98-BASIC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "초코바나나빽스치노(SOFT)",
+        "volume": 765.0,
+        "sugar_content": 117.0,
+        "calories": 792.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94%EB%B0%94%EB%82%98%EB%82%98_%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "딸기 빽스치노(BASIC)",
+        "volume": 625.0,
+        "sugar_content": 86.0,
+        "calories": 480.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EB%94%B8%EA%B8%B0%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "딸기 빽스치노(SOFT)",
+        "volume": 765.0,
+        "sugar_content": 98.0,
+        "calories": 687.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EB%94%B8%EA%B8%B0%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "녹차빽스치노(BASIC)",
+        "volume": 625.0,
+        "sugar_content": 90.0,
+        "calories": 548.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%85%B9%EC%B0%A8%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "녹차빽스치노(SOFT)",
+        "volume": 765.0,
+        "sugar_content": 103.0,
+        "calories": 755.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%85%B9%EC%B0%A8%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "민트초코빽스치노(BASIC)",
+        "volume": 630.0,
+        "sugar_content": 28.0,
+        "calories": 602.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%AF%BC%ED%8A%B8%EC%B4%88%EC%BD%94%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "민트초코빽스치노(SOFT)",
+        "volume": 770.0,
+        "sugar_content": 40.0,
+        "calories": 809.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%AF%BC%ED%8A%B8%EC%B4%88%EC%BD%94%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "쿠키크런치빽스치노(BASIC)",
+        "volume": 628.5,
+        "sugar_content": 93.0,
+        "calories": 768.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%BF%A0%ED%82%A4%ED%81%AC%EB%9F%B0%EC%B9%98%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "쿠키크런치빽스치노(SOFT)",
+        "volume": 748.5,
+        "sugar_content": 103.0,
+        "calories": 942.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%BF%A0%ED%82%A4%ED%81%AC%EB%9F%B0%EC%B9%98%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "초코빽스치노(BASIC)",
+        "volume": 570.5,
+        "sugar_content": 92.0,
+        "calories": 520.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "초코빽스치노(SOFT)",
+        "volume": 690.5,
+        "sugar_content": 103.0,
+        "calories": 694.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "피스타치오빽스치노(BASIC)",
+        "volume": 625.0,
+        "sugar_content": 12.0,
+        "calories": 535.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%ED%94%BC%EC%8A%A4%ED%83%80%EC%B9%98%EC%98%A4%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "피스타치오빽스치노(SOFT)",
+        "volume": 765.0,
+        "sugar_content": 24.0,
+        "calories": 742.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%ED%94%BC%EC%8A%A4%ED%83%80%EC%B9%98%EC%98%A4%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "퐁당치노(바닐라)",
+        "volume": 531.0,
+        "sugar_content": 60.0,
+        "calories": 496.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%ED%90%81%EB%8B%B9%EC%B9%98%EB%85%B8_%EB%B0%94%EB%8B%90%EB%9D%BC-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "퐁당치노(원조커피)",
+        "volume": 538.0,
+        "sugar_content": 54.0,
+        "calories": 483.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%ED%90%81%EB%8B%B9%EC%B9%98%EB%85%B8_%EC%9B%90%EC%A1%B0-450x588.png"
+    },
+    {
+        "cafe_id": 5,
+        "drink_name": "퐁당치노(미숫가루)",
+        "volume": 592.0,
+        "sugar_content": 74.0,
+        "calories": 613.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%ED%90%81%EB%8B%B9%EC%B9%98%EB%85%B8_%EB%AF%B8%EC%88%AB%EA%B0%80%EB%A3%A8-450x588.png"
+    }
+]
