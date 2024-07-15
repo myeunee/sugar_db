@@ -5,7 +5,7 @@ from models import User, Drink, Cafe, ConsumptionRecord, FavoriteCafe, FavoriteD
 from datetime import datetime
 from werkzeug.utils import secure_filename
 import os
-
+from flask_jwt_extended import create_access_token, jwt_required, get_jwt_identity
 
 bp = Blueprint('routes', __name__)
 
@@ -18,6 +18,15 @@ def allowed_file(filename):
 @bp.route('/')
 def index():
     return "Hello, Flask!"
+
+@bp.route('/user_info', methods=['GET'])
+@jwt_required()
+def user_info():
+    user_id = get_jwt_identity()
+    user = User.query.get(user_id)
+    if user:
+        return jsonify({'username': user.username})
+    return jsonify({'message': 'User not found'}), 404
 
 # 음료 읽기
 @bp.route('/drinks', methods=['GET'])
@@ -67,9 +76,9 @@ def login():
     print(f"Login request received: {data}")  # 로그 추가
     user = User.query.filter_by(username=data['username']).first()
     if user and user.password == data['password']:
-        login_user(user)
+        access_token = create_access_token(identity=user.user_id)
         print(f"User {data['username']} logged in successfully")  # 로그 추가
-        return jsonify({'message': 'Logged in successfully'})
+        return jsonify({'message': 'Logged in successfully', 'access_token': access_token})
     print(f"Invalid credentials for user {data['username']}")  # 로그 추가
     return jsonify({'message': 'Invalid credentials'}), 401
 
@@ -81,25 +90,45 @@ def logout():
     return jsonify({'message': 'Logged out successfully'})
 
 @bp.route('/consume', methods=['POST'])
-@login_required
+@jwt_required()
 def consume_drink():
     data = request.get_json()
-    new_consumption = ConsumptionRecord(user_id=current_user.user_id, drink_id=data['drink_id'], consumption_date=datetime.now())
+    user_id = get_jwt_identity()
+    new_consumption = ConsumptionRecord(user_id=user_id, drink_id=data['drink_id'], consumption_date=datetime.now())
     db.session.add(new_consumption)
     db.session.commit()
     return jsonify({'message': 'Drink consumed'})
 
 @bp.route('/consumption', methods=['GET'])
-@login_required
+@jwt_required()
 def get_consumption():
-    consumptions = ConsumptionRecord.query.filter_by(user_id=current_user.user_id).all()
+    user_id = get_jwt_identity()
+    consumptions = ConsumptionRecord.query.filter_by(user_id=user_id).all()
     total_sugar = sum([c.drink.sugar_content for c in consumptions])
-    return jsonify({'total_sugar': total_sugar})
+    total_calories = sum([c.drink.calories for c in consumptions])
+    consumption_records = [
+        {
+            'drink_id': c.drink_id,
+            'consumption_date': c.consumption_date.strftime('%Y-%m-%d %H:%M:%S'),  # 날짜 형식 수정
+            'drink': {
+                'drink_name': c.drink.drink_name,
+                'sugar_content': c.drink.sugar_content,
+                'calories': c.drink.calories,
+                'volume': c.drink.volume
+            }
+        } for c in consumptions
+    ]
+    return jsonify({
+        'total_sugar': total_sugar,
+        'total_calories': total_calories,
+        'consumption_records': consumption_records
+    })
+
 
 # 2. 데이터 CRUD 기능 추가
 # 음료 생성
 @bp.route('/drink', methods=['POST'])
-@login_required
+@jwt_required()
 def add_drink():
     data = request.get_json()
     new_drink = Drink(
@@ -115,7 +144,7 @@ def add_drink():
 
 # 음료 수정
 @bp.route('/drink/<int:drink_id>', methods=['PUT'])
-@login_required
+@jwt_required()
 def update_drink(drink_id):
     data = request.get_json()
     drink = Drink.query.get(drink_id)
@@ -133,7 +162,7 @@ def update_drink(drink_id):
 
 # 음료 삭제
 @bp.route('/drink/<int:drink_id>', methods=['DELETE'])
-@login_required
+@jwt_required()
 def delete_drink(drink_id):
     drink = Drink.query.get(drink_id)
     if not drink:
@@ -145,7 +174,7 @@ def delete_drink(drink_id):
 
 # 이미지 업로드 및 음료 추가
 @bp.route('/upload_image', methods=['POST'])
-@login_required
+@jwt_required()
 def upload_image():
     if 'image' not in request.files:
         return jsonify({'error': 'No image part'}), 400
@@ -175,3 +204,27 @@ def upload_image():
         return jsonify({'message': 'Drink and image uploaded successfully', 'image_url': file_path}), 200
     else:
         return jsonify({'error': 'Invalid file type'}), 400
+
+# 3. 선호 음료 기능 추가
+# 선호 음료 추가
+@bp.route('/favorite_drink', methods=['POST'])
+@jwt_required()
+def add_favorite_drink():
+    data = request.get_json()
+    user_id = get_jwt_identity()
+    if FavoriteDrink.query.filter_by(user_id=user_id, drink_id=data['drink_id']).first():
+        return jsonify({'message': 'Already a favorite'}), 409
+
+    new_favorite = FavoriteDrink(user_id=user_id, drink_id=data['drink_id'])
+    db.session.add(new_favorite)
+    db.session.commit()
+    return jsonify({'message': 'Favorite drink added successfully'})
+
+# 선호 음료 가져오기
+@bp.route('/favorites', methods=['GET'])
+@jwt_required()
+def get_favorites():
+    user_id = get_jwt_identity()
+    favorites = FavoriteDrink.query.filter_by(user_id=user_id).all()
+    favorite_list = [{'favorite_drink_id': f.favorite_drink_id, 'drink_id': f.drink_id} for f in favorites]
+    return jsonify(favorite_list)

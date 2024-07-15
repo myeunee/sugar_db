@@ -1,1226 +1,1343 @@
 [
     {
-        "cafe_id": 5,
-        "drink_name": "더블에스프레소",
+        "name": "더블에스프레소",
         "volume": 60.0,
         "sugar_content": 0.0,
         "calories": 22.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%8D%94%EB%B8%94%EC%97%90%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C-2-450x588.png"
+        "sodium_content": 0.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%8D%94%EB%B8%94%EC%97%90%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C-2-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "아메리카노(HOT)",
+        "name": "아메리카노(HOT)",
         "volume": 472.0,
         "sugar_content": 0.0,
         "calories": 14.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EC%95%97%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8-450x588.png"
+        "sodium_content": 4.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EC%95%97%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "아메리카노(ICED)",
+        "name": "아메리카노(ICED)",
         "volume": 708.0,
         "sugar_content": 0.0,
         "calories": 13.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EC%95%97%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8-450x588.png"
+        "sodium_content": 4.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EC%95%97%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "원조커피(HOT)",
+        "name": "원조커피(HOT)",
         "volume": 472.0,
         "sugar_content": 57.0,
         "calories": 471.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EC%9B%90%EC%A1%B0%EC%BB%A4%ED%94%BC-450x588.png"
+        "sodium_content": 24.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EC%9B%90%EC%A1%B0%EC%BB%A4%ED%94%BC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "원조커피(ICED)",
+        "name": "원조커피(ICED)",
         "volume": 708.0,
         "sugar_content": 48.0,
         "calories": 425.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EC%9B%90%EC%A1%B0%EC%BB%A4%ED%94%BC-450x588.png"
+        "sodium_content": 22.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EC%9B%90%EC%A1%B0%EC%BB%A4%ED%94%BC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "원조커피 제로슈거(HOT)",
+        "name": "원조커피 제로슈거(HOT)",
         "volume": 472.0,
         "sugar_content": 0.0,
         "calories": 372.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%9B%90%EC%A1%B0%EC%BB%A4%ED%94%BC%ED%95%AB-450x588.png"
+        "sodium_content": 87.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%9B%90%EC%A1%B0%EC%BB%A4%ED%94%BC%ED%95%AB-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "원조커피 제로슈거(ICED)",
+        "name": "원조커피 제로슈거(ICED)",
         "volume": 708.0,
         "sugar_content": 0.0,
         "calories": 327.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EC%9B%90%EC%A1%B0%EC%BB%A4%ED%94%BC-450x588.png"
+        "sodium_content": 74.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EC%9B%90%EC%A1%B0%EC%BB%A4%ED%94%BC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "슈크리미 라떼(HOT)",
+        "name": "슈크리미 라떼(HOT)",
         "volume": 472.0,
         "sugar_content": 28.0,
         "calories": 479.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2024/05/%EC%8A%88%ED%81%AC%EB%A6%AC%EB%AF%B8-%EB%9D%BC%EB%96%BCHOT-450x588.png"
+        "sodium_content": 173.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/05/%EC%8A%88%ED%81%AC%EB%A6%AC%EB%AF%B8-%EB%9D%BC%EB%96%BCHOT-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "슈크리미 라떼(ICED)",
-        "volume": 472.0,
+        "name": "슈크리미 라떼(ICED)",
+        "volume": 708.0,
         "sugar_content": 25.0,
         "calories": 410.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2024/05/%EC%8A%88%ED%81%AC%EB%A6%AC%EB%AF%B8-%EB%9D%BC%EB%96%BCICED-450x588.png"
+        "sodium_content": 145.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/05/%EC%8A%88%ED%81%AC%EB%A6%AC%EB%AF%B8-%EB%9D%BC%EB%96%BCICED-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "슈크리미 커피쉐이크",
-        "volume": 472.0,
+        "name": "슈크리미 커피쉐이크",
+        "volume": 708.0,
         "sugar_content": 50.0,
         "calories": 482.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2024/05/%EC%8A%88%ED%81%AC%EB%A6%AC%EB%AF%B8-%EC%BB%A4%ED%94%BC%EC%89%90%EC%9D%B4%ED%81%AC-450x588.png"
+        "sodium_content": 258.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/05/%EC%8A%88%ED%81%AC%EB%A6%AC%EB%AF%B8-%EC%BB%A4%ED%94%BC%EC%89%90%EC%9D%B4%ED%81%AC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "달달연유라떼(HOT)",
+        "name": "달달연유라떼(HOT)",
         "volume": 472.0,
         "sugar_content": 62.0,
         "calories": 491.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EB%8B%AC%EB%8B%AC%EC%97%B0%EC%9C%A0%EB%9D%BC%EB%96%BC-1-450x588.png"
+        "sodium_content": 199.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EB%8B%AC%EB%8B%AC%EC%97%B0%EC%9C%A0%EB%9D%BC%EB%96%BC-1-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "달달연유라떼(ICED)",
+        "name": "달달연유라떼(ICED)",
         "volume": 708.0,
         "sugar_content": 54.0,
         "calories": 394.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EB%8B%AC%EB%8B%AC%EC%97%B0%EC%9C%A0%EB%9D%BC%EB%96%BC_-450x588.png"
+        "sodium_content": 135.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EB%8B%AC%EB%8B%AC%EC%97%B0%EC%9C%A0%EB%9D%BC%EB%96%BC_-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "카페라떼(HOT)",
+        "name": "카페라떼(HOT)",
         "volume": 472.0,
         "sugar_content": 9.0,
         "calories": 253.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EB%B9%BDs%EB%9D%BC%EB%96%BC-450x588.png"
+        "sodium_content": 69.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EB%B9%BDs%EB%9D%BC%EB%96%BC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "카페라떼(ICED)",
+        "name": "카페라떼(ICED)",
         "volume": 708.0,
         "sugar_content": 10.0,
         "calories": 198.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%B9%BDs-%EB%9D%BC%EB%96%BCICED-450x588.png"
+        "sodium_content": 81.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%B9%BDs-%EB%9D%BC%EB%96%BCICED-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "블랙펄카페라떼(ICED)",
+        "name": "블랙펄카페라떼(ICED)",
         "volume": 708.0,
         "sugar_content": 59.0,
         "calories": 429.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%B8%94%EB%9E%99%ED%8E%84%EC%B9%B4%ED%8E%98%EB%9D%BC%EB%96%BC-450x588.png"
+        "sodium_content": 115.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%B8%94%EB%9E%99%ED%8E%84%EC%B9%B4%ED%8E%98%EB%9D%BC%EB%96%BC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "바닐라라떼(HOT)",
+        "name": "바닐라라떼(HOT)",
         "volume": 472.0,
         "sugar_content": 35.0,
         "calories": 351.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EB%B0%94%EB%8B%90%EB%9D%BC%EB%9D%BC%EB%96%BC-1-450x588.png"
+        "sodium_content": 136.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EB%B0%94%EB%8B%90%EB%9D%BC%EB%9D%BC%EB%96%BC-1-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "바닐라라떼(ICED)",
+        "name": "바닐라라떼(ICED)",
         "volume": 708.0,
         "sugar_content": 38.0,
         "calories": 433.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EB%B0%94%EB%8B%90%EB%9D%BC%EB%9D%BC%EB%96%BC-450x588.png"
+        "sodium_content": 144.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EB%B0%94%EB%8B%90%EB%9D%BC%EB%9D%BC%EB%96%BC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "카페모카(HOT)",
+        "name": "카페모카(HOT)",
         "volume": 472.0,
         "sugar_content": 32.0,
         "calories": 319.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EC%B9%B4%ED%8E%98%EB%AA%A8%EC%B9%B4-450x588.png"
+        "sodium_content": 144.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EC%B9%B4%ED%8E%98%EB%AA%A8%EC%B9%B4-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "카페모카(ICED)",
+        "name": "카페모카(ICED)",
         "volume": 708.0,
         "sugar_content": 36.0,
         "calories": 365.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EC%B9%B4%ED%8E%98%EB%AA%A8%EC%B9%B4-450x588.png"
+        "sodium_content": 146.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EC%B9%B4%ED%8E%98%EB%AA%A8%EC%B9%B4-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "카라멜마키아또(HOT)",
+        "name": "카라멜마키아또(HOT)",
         "volume": 472.0,
         "sugar_content": 40.0,
         "calories": 354.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EC%B9%B4%EB%9D%BC%EB%A9%9C%EB%A7%88%ED%82%A4%EC%95%84%EB%98%90-450x588.png"
+        "sodium_content": 137.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/HOT-%EC%B9%B4%EB%9D%BC%EB%A9%9C%EB%A7%88%ED%82%A4%EC%95%84%EB%98%90-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "카라멜마키아또(ICED)",
+        "name": "카라멜마키아또(ICED)",
         "volume": 708.0,
         "sugar_content": 43.0,
         "calories": 382.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EC%B9%B4%EB%9D%BC%EB%A9%9C%EB%A7%88%ED%82%A4%EC%95%84%EB%98%90-450x588.png"
+        "sodium_content": 148.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/ICED-%EC%B9%B4%EB%9D%BC%EB%A9%9C%EB%A7%88%ED%82%A4%EC%95%84%EB%98%90-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "바나나 카페라떼(HOT)",
+        "name": "바나나 카페라떼(HOT)",
         "volume": 472.0,
         "sugar_content": 40.0,
         "calories": 297.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EB%B0%94%EB%82%98%EB%82%98%EC%B9%B4%ED%8E%98%EB%9D%BC%EB%96%BCHOT-450x588.png"
+        "sodium_content": 156.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EB%B0%94%EB%82%98%EB%82%98%EC%B9%B4%ED%8E%98%EB%9D%BC%EB%96%BCHOT-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "바나나 카페라떼(ICED)",
+        "name": "바나나 카페라떼(ICED)",
         "volume": 708.0,
         "sugar_content": 39.0,
         "calories": 303.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EB%B0%94%EB%82%98%EB%82%98%EC%B9%B4%ED%8E%98%EB%9D%BC%EB%96%BCICED-450x588.png"
+        "sodium_content": 150.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EB%B0%94%EB%82%98%EB%82%98%EC%B9%B4%ED%8E%98%EB%9D%BC%EB%96%BCICED-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "바나나 커피쉐이크",
+        "name": "바나나 커피쉐이크",
         "volume": 708.0,
         "sugar_content": 63.0,
         "calories": 380.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EB%B0%94%EB%82%98%EB%82%98%EC%BB%A4%ED%94%BC%EC%89%90%EC%9D%B4%ED%81%ACICED-450x588.png"
+        "sodium_content": 209.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EB%B0%94%EB%82%98%EB%82%98%EC%BB%A4%ED%94%BC%EC%89%90%EC%9D%B4%ED%81%ACICED-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "아이스크림카페라떼(ICED)",
+        "name": "아이스크림카페라떼(ICED)",
         "volume": 708.0,
         "sugar_content": 32.0,
         "calories": 357.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2022/05/%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EC%B9%B4%ED%8E%98%EB%9D%BC%EB%96%BC-450x588.png"
+        "sodium_content": 126.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/05/%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EC%B9%B4%ED%8E%98%EB%9D%BC%EB%96%BC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "아이스크림바닐라라떼(ICED)",
+        "name": "아이스크림바닐라라떼(ICED)",
         "volume": 708.0,
         "sugar_content": 49.0,
         "calories": 520.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2022/05/%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EB%B0%94%EB%8B%90%EB%9D%BC%EB%9D%BC%EB%96%BC-450x588.png"
+        "sodium_content": 214.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/05/%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EB%B0%94%EB%8B%90%EB%9D%BC%EB%9D%BC%EB%96%BC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "아이스크림카페모카(ICED)",
+        "name": "아이스크림카페모카(ICED)",
         "volume": 708.0,
         "sugar_content": 50.0,
         "calories": 512.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2022/05/%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EC%B9%B4%ED%8E%98%EB%AA%A8%EC%B9%B4-450x588.png"
+        "sodium_content": 222.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/05/%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EC%B9%B4%ED%8E%98%EB%AA%A8%EC%B9%B4-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "콜드브루(ICED)",
+        "name": "콜드브루(ICED)",
         "volume": 708.0,
         "sugar_content": 0.0,
         "calories": 15.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8-1-450x588.png"
+        "sodium_content": 2.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8-1-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "콜드브루(HOT)",
+        "name": "콜드브루(HOT)",
         "volume": 472.0,
         "sugar_content": 0.0,
         "calories": 15.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/02/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8HOT-450x588.png"
+        "sodium_content": 3.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/02/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8HOT-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "디카페인 콜드브루(ICED)",
+        "name": "디카페인 콜드브루(ICED)",
         "volume": 708.0,
         "sugar_content": 0.0,
         "calories": 11.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%94%94%EC%B9%B4%ED%8E%98%EC%9D%B8-%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8-1-450x588.png"
+        "sodium_content": 5.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%94%94%EC%B9%B4%ED%8E%98%EC%9D%B8-%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8-1-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "콜드브루라떼(ICED)",
+        "name": "콜드브루라떼(ICED)",
         "volume": 708.0,
         "sugar_content": 9.0,
         "calories": 168.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%EB%9D%BC%EB%96%BC-1-450x588.png"
+        "sodium_content": 65.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%EB%9D%BC%EB%96%BC-1-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "콜드브루라떼(HOT)",
+        "name": "콜드브루라떼(HOT)",
         "volume": 472.0,
         "sugar_content": 13.0,
         "calories": 206.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/02/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%EB%9D%BC%EB%96%BCHOT-450x588.png"
+        "sodium_content": 82.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/02/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%EB%9D%BC%EB%96%BCHOT-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "디카페인 콜드브루라떼(ICED)",
+        "name": "디카페인 콜드브루라떼(ICED)",
         "volume": 708.0,
         "sugar_content": 9.0,
         "calories": 162.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%EB%9D%BC%EB%96%BC-450x588.png"
+        "sodium_content": 90.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%EB%9D%BC%EB%96%BC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "콜드브루라떼(연유)(ICED)",
+        "name": "콜드브루라떼(연유)(ICED)",
         "volume": 708.0,
         "sugar_content": 36.0,
         "calories": 379.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2022/01/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%EC%97%B0%EC%9C%A0%EB%9D%BC%EB%96%BC-450x588.png"
+        "sodium_content": 115.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/01/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%EC%97%B0%EC%9C%A0%EB%9D%BC%EB%96%BC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "콜드브루라떼(연유)(HOT)",
+        "name": "콜드브루라떼(연유)(HOT)",
         "volume": 472.0,
         "sugar_content": 39.0,
         "calories": 371.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/02/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%EC%97%B0%EC%9C%A0%EB%9D%BC%EB%96%BCHOT-450x588.png"
+        "sodium_content": 128.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/02/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%EC%97%B0%EC%9C%A0%EB%9D%BC%EB%96%BCHOT-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "디카페인 콜드브루라떼(연유)(ICED)",
+        "name": "디카페인 콜드브루라떼(연유)(ICED)",
         "volume": 708.0,
         "sugar_content": 40.0,
         "calories": 357.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2022/01/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%EC%97%B0%EC%9C%A0%EB%9D%BC%EB%96%BC-450x588.png"
+        "sodium_content": 133.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/01/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%EC%97%B0%EC%9C%A0%EB%9D%BC%EB%96%BC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "콜드브루라떼(흑당)(ICED)",
+        "name": "콜드브루라떼(흑당)(ICED)",
         "volume": 708.0,
         "sugar_content": 44.0,
         "calories": 312.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2022/01/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%ED%9D%91%EB%8B%B9%EB%9D%BC%EB%96%BC-450x588.png"
+        "sodium_content": 77.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/01/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%ED%9D%91%EB%8B%B9%EB%9D%BC%EB%96%BC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "콜드브루라떼(흑당)(HOT)",
+        "name": "콜드브루라떼(흑당)(HOT)",
         "volume": 472.0,
         "sugar_content": 42.0,
         "calories": 334.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/02/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%ED%9D%91%EB%8B%B9%EB%9D%BC%EB%96%BCHOT-450x588.png"
+        "sodium_content": 72.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/02/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%ED%9D%91%EB%8B%B9%EB%9D%BC%EB%96%BCHOT-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "디카페인 콜드브루라떼(흑당)(ICED)",
+        "name": "디카페인 콜드브루라떼(흑당)(ICED)",
         "volume": 708.0,
         "sugar_content": 45.0,
         "calories": 280.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2022/01/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%ED%9D%91%EB%8B%B9%EB%9D%BC%EB%96%BC-450x588.png"
+        "sodium_content": 87.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/01/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8%ED%9D%91%EB%8B%B9%EB%9D%BC%EB%96%BC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "아이스티샷추가(아샷추)",
+        "name": "아이스티샷추가(아샷추)",
         "volume": 708.0,
         "sugar_content": 64.0,
         "calories": 265.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EC%95%84%EC%83%B7%EC%B6%94-450x588.png"
+        "sodium_content": 17.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EC%95%84%EC%83%B7%EC%B6%94-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "빽사이즈 아메리카노(ICED)",
+        "name": "빽사이즈 아메리카노(ICED)",
         "volume": 944.0,
         "sugar_content": 0.0,
         "calories": 19.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%95%97%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8-32oz-450x588.png"
+        "sodium_content": 8.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%95%97%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8-32oz-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "빽사이즈 원조커피(ICED)",
+        "name": "빽사이즈 원조커피(ICED)",
         "volume": 944.0,
         "sugar_content": 73.0,
         "calories": 646.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%9B%90%EC%A1%B0%EC%BB%A4%ED%94%BC-32oz-%EA%B0%84%EC%96%BC%EC%9D%8C-450x588.png"
+        "sodium_content": 34.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%9B%90%EC%A1%B0%EC%BB%A4%ED%94%BC-32oz-%EA%B0%84%EC%96%BC%EC%9D%8C-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "빽사이즈 원조커피 제로슈거(ICED)",
+        "name": "빽사이즈 원조커피 제로슈거(ICED)",
         "volume": 944.0,
         "sugar_content": 0.0,
         "calories": 497.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%9B%90%EC%A1%B0%EC%BB%A4%ED%94%BC-32oz-%EA%B0%84%EC%96%BC%EC%9D%8C-450x588.png"
+        "sodium_content": 113.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%9B%90%EC%A1%B0%EC%BB%A4%ED%94%BC-32oz-%EA%B0%84%EC%96%BC%EC%9D%8C-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "빽사이즈 카페라떼(ICED)",
+        "name": "빽사이즈 카페라떼(ICED)",
         "volume": 944.0,
         "sugar_content": 17.0,
         "calories": 278.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EB%B9%BDs-%EB%9D%BC%EB%96%BC-32oz-450x588.png"
+        "sodium_content": 142.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EB%B9%BDs-%EB%9D%BC%EB%96%BC-32oz-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "빽사이즈 아이스티샷추가(ICED)",
+        "name": "빽사이즈 아이스티샷추가(ICED)",
         "volume": 944.0,
         "sugar_content": 68.0,
         "calories": 297.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%95%84%EC%83%B7%EC%B6%94-32oz-450x588.png"
+        "sodium_content": 22.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/01/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%95%84%EC%83%B7%EC%B6%94-32oz-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "멜론소다",
+        "name": "초코 멜로쉐이크",
+        "volume": 708.0,
+        "sugar_content": 34.0,
+        "calories": 479.0,
+        "sodium_content": 140.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/06/%EC%B4%88%EC%BD%94%EB%A9%9C%EB%A1%9C%EC%89%90%EC%9D%B4%ED%81%AC-450x588.jpg",
+        "cafe_id": 2
+    },
+    {
+        "name": "딸기초코 멜로라떼",
+        "volume": 708.0,
+        "sugar_content": 47.0,
+        "calories": 409.0,
+        "sodium_content": 102.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/06/%EB%94%B8%EA%B8%B0%EC%B4%88%EC%BD%94%EB%A9%9C%EB%A1%9C%EB%9D%BC%EB%96%BC-450x588.jpg",
+        "cafe_id": 2
+    },
+    {
+        "name": "멜론소다",
         "volume": 472.0,
         "sugar_content": 86.0,
         "calories": 455.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2024/05/%EB%A9%9C%EB%A1%A0%EC%86%8C%EB%8B%A4-450x588.png"
+        "sodium_content": 77.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/05/%EB%A9%9C%EB%A1%A0%EC%86%8C%EB%8B%A4-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "쿨라임스무디",
+        "name": "쿨라임스무디",
         "volume": 472.0,
         "sugar_content": 0.0,
         "calories": 70.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2024/04/%EC%BF%A8%EB%9D%BC%EC%9E%84%EC%8A%A4%EB%AC%B4%EB%94%94-450x588.png"
+        "sodium_content": 89.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/04/%EC%BF%A8%EB%9D%BC%EC%9E%84%EC%8A%A4%EB%AC%B4%EB%94%94-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "쿨라임에이드",
+        "name": "쿨라임에이드",
         "volume": 472.0,
         "sugar_content": 0.0,
         "calories": 43.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2024/04/%EC%BF%A8%EB%9D%BC%EC%9E%84%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png"
+        "sodium_content": 47.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/04/%EC%BF%A8%EB%9D%BC%EC%9E%84%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "깔라만시스무디",
+        "name": "깔라만시스무디",
         "volume": 472.0,
         "sugar_content": 0.0,
         "calories": 114.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2024/04/%EA%B9%94%EB%9D%BC%EB%A7%8C%EC%8B%9C%EC%8A%A4%EB%AC%B4%EB%94%94-450x588.png"
+        "sodium_content": 74.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/04/%EA%B9%94%EB%9D%BC%EB%A7%8C%EC%8B%9C%EC%8A%A4%EB%AC%B4%EB%94%94-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "성주참외스무디",
+        "name": "성주참외스무디",
         "volume": 472.0,
         "sugar_content": 6.0,
         "calories": 261.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2024/04/%EC%84%B1%EC%A3%BC%EC%B0%B8%EC%99%B8%EA%BF%80%EC%8A%A4%EB%AC%B4%EB%94%94-450x588.png"
+        "sodium_content": 71.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/04/%EC%84%B1%EC%A3%BC%EC%B0%B8%EC%99%B8%EA%BF%80%EC%8A%A4%EB%AC%B4%EB%94%94-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "소울트로닉에이드(ICED)",
+        "name": "소울트로닉에이드(ICED)",
         "volume": 472.0,
         "sugar_content": 61.0,
         "calories": 263.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2024/03/%EC%86%8C%EC%9A%B8%ED%8A%B8%EB%A1%9C%EB%8B%89%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png"
+        "sodium_content": 40.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/03/%EC%86%8C%EC%9A%B8%ED%8A%B8%EB%A1%9C%EB%8B%89%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "트로피칼팝핑스무디(ICED)",
+        "name": "트로피칼팝핑스무디(ICED)",
         "volume": 472.0,
         "sugar_content": 96.0,
         "calories": 455.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2024/03/%ED%8A%B8%EB%A1%9C%ED%94%BC%EC%B9%BC%ED%8C%9D%ED%95%91%EC%8A%A4%EB%AC%B4%EB%94%94-450x588.png"
+        "sodium_content": 104.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/03/%ED%8A%B8%EB%A1%9C%ED%94%BC%EC%B9%BC%ED%8C%9D%ED%95%91%EC%8A%A4%EB%AC%B4%EB%94%94-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "패션후르츠스무디",
+        "name": "패션후르츠스무디",
         "volume": 594.0,
         "sugar_content": 75.0,
         "calories": 327.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/06/%ED%8C%A8%EC%85%98%ED%9B%84%EB%A5%B4%EC%B8%A0%EC%8A%A4%EB%AC%B4%EB%94%94_thumb-450x588.png"
+        "sodium_content": 66.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/06/%ED%8C%A8%EC%85%98%ED%9B%84%EB%A5%B4%EC%B8%A0%EC%8A%A4%EB%AC%B4%EB%94%94_thumb-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "망고패션스무디",
+        "name": "망고패션스무디",
         "volume": 617.0,
         "sugar_content": 86.0,
         "calories": 415.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/06/%EB%A7%9D%EA%B3%A0%ED%8C%A8%EC%85%98%EC%8A%A4%EB%AC%B4%EB%94%94_thumb-450x588.png"
+        "sodium_content": 73.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/06/%EB%A7%9D%EA%B3%A0%ED%8C%A8%EC%85%98%EC%8A%A4%EB%AC%B4%EB%94%94_thumb-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "수정과(HOT)",
+        "name": "수정과(HOT)",
         "volume": 472.0,
         "sugar_content": 70.0,
         "calories": 302.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2024/02/%EC%88%98%EC%A0%95%EA%B3%BC_hot-450x588.png"
+        "sodium_content": 9.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/02/%EC%88%98%EC%A0%95%EA%B3%BC_hot-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "수정과(ICED)",
+        "name": "수정과(ICED)",
         "volume": 708.0,
         "sugar_content": 66.0,
         "calories": 303.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2024/02/%EC%88%98%EC%A0%95%EA%B3%BC_iced-450x588.png"
+        "sodium_content": 4.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/02/%EC%88%98%EC%A0%95%EA%B3%BC_iced-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "식혜(ICED)",
+        "name": "식혜(ICED)",
         "volume": 708.0,
         "sugar_content": 63.0,
         "calories": 287.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2022/05/%EC%8B%9D%ED%98%9C-450x588.png"
+        "sodium_content": 4.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/05/%EC%8B%9D%ED%98%9C-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "뱅쇼(HOT)",
-        "volume": 472.0,
-        "sugar_content": 46.0,
-        "calories": 223.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/11/%EB%B1%85%EC%87%BChot_thumb-450x588.png"
-    },
-    {
-        "cafe_id": 5,
-        "drink_name": "뱅쇼(ICED)",
-        "volume": 708.0,
-        "sugar_content": 46.0,
-        "calories": 210.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/11/%EB%B1%85%EC%87%BCiced_thumb-450x588.png"
-    },
-    {
-        "cafe_id": 5,
-        "drink_name": "고구마라떼(HOT)",
+        "name": "고구마라떼(HOT)",
         "volume": 472.0,
         "sugar_content": 71.0,
         "calories": 463.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EA%B3%A0%EA%B5%AC%EB%A7%88%EB%9D%BC%EB%96%BC_%ED%95%AB_450x558-450x588.png"
+        "sodium_content": 110.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EA%B3%A0%EA%B5%AC%EB%A7%88%EB%9D%BC%EB%96%BC_%ED%95%AB_450x558-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "고구마라떼(ICED)",
+        "name": "고구마라떼(ICED)",
         "volume": 708.0,
         "sugar_content": 56.0,
         "calories": 413.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EA%B3%A0%EA%B5%AC%EB%A7%88%EB%9D%BC%EB%96%BC_%EC%95%84%EC%9D%B4%EC%8A%A4_450x558-450x588.png"
+        "sodium_content": 101.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EA%B3%A0%EA%B5%AC%EB%A7%88%EB%9D%BC%EB%96%BC_%EC%95%84%EC%9D%B4%EC%8A%A4_450x558-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "고구마스무디",
+        "name": "고구마스무디",
         "volume": 708.0,
         "sugar_content": 70.0,
         "calories": 481.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EA%B3%A0%EA%B5%AC%EB%A7%88%EC%8A%A4%EB%AC%B4%EB%94%94_%EC%95%84%EC%9D%B4%EC%8A%A4_450x558-450x588.png"
+        "sodium_content": 92.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EA%B3%A0%EA%B5%AC%EB%A7%88%EC%8A%A4%EB%AC%B4%EB%94%94_%EC%95%84%EC%9D%B4%EC%8A%A4_450x558-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "꿀밤라떼(HOT)",
-        "volume": 472.0,
-        "sugar_content": 54.0,
-        "calories": 513.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EA%BF%80%EB%B0%A4%EB%9D%BC%EB%96%BC_%ED%95%AB_450x558-450x588.png"
-    },
-    {
-        "cafe_id": 5,
-        "drink_name": "꿀밤라떼(ICED)",
-        "volume": 708.0,
-        "sugar_content": 50.0,
-        "calories": 436.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EA%BF%80%EB%B0%A4%EB%9D%BC%EB%96%BC_%EC%95%84%EC%9D%B4%EC%8A%A4_450x558-450x588.png"
-    },
-    {
-        "cafe_id": 5,
-        "drink_name": "바나나 라떼(HOT)",
+        "name": "바나나 라떼(HOT)",
         "volume": 472.0,
         "sugar_content": 7.0,
         "calories": 156.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EB%B0%94%EB%82%98%EB%82%98%EB%9D%BC%EB%96%BCHOT-450x588.png"
+        "sodium_content": 37.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EB%B0%94%EB%82%98%EB%82%98%EB%9D%BC%EB%96%BCHOT-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "바나나 라떼(ICED)",
+        "name": "바나나 라떼(ICED)",
         "volume": 708.0,
         "sugar_content": 7.0,
         "calories": 154.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EB%B0%94%EB%82%98%EB%82%98%EB%9D%BC%EB%96%BCICED-450x588.png"
+        "sodium_content": 42.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EB%B0%94%EB%82%98%EB%82%98%EB%9D%BC%EB%96%BCICED-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "바나나 밀크쉐이크",
+        "name": "바나나 밀크쉐이크",
         "volume": 708.0,
         "sugar_content": 5.0,
         "calories": 216.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EB%B0%94%EB%82%98%EB%82%98%EB%B0%80%ED%81%AC%EC%89%90%EC%9D%B4%ED%81%ACICED-450x588.png"
+        "sodium_content": 66.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EB%B0%94%EB%82%98%EB%82%98%EB%B0%80%ED%81%AC%EC%89%90%EC%9D%B4%ED%81%ACICED-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "아이스크러시 파인애플",
-        "volume": 708.0,
-        "sugar_content": 94.0,
-        "calories": 384.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/05/icecrush_pine-450x588.png"
-    },
-    {
-        "cafe_id": 5,
-        "drink_name": "아이스크러시 오렌지",
+        "name": "아이스크러시 오렌지",
         "volume": 708.0,
         "sugar_content": 102.0,
         "calories": 441.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/05/icecrush_orange-450x588.png"
+        "sodium_content": 116.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/05/icecrush_orange-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "아이스크러시 멜론",
+        "name": "아이스크러시 멜론",
         "volume": 708.0,
         "sugar_content": 80.0,
         "calories": 349.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/05/icecrush_melon-450x588.png"
+        "sodium_content": 51.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/05/icecrush_melon-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "아이스크러시 콜라",
+        "name": "아이스크러시 콜라",
         "volume": 708.0,
         "sugar_content": 104.0,
         "calories": 448.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/05/icecrush_coke-450x588.png"
+        "sodium_content": 104.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/05/icecrush_coke-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "우리포도주스(ICED)",
-        "volume": 708.0,
-        "sugar_content": 44.0,
-        "calories": 188.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2022/09/%EC%9A%B0%EB%A6%AC%ED%8F%AC%EB%8F%84%EC%A3%BC%EC%8A%A4-450x588-450x588.png"
-    },
-    {
-        "cafe_id": 5,
-        "drink_name": "제주감귤주스(ICED)",
+        "name": "제주감귤주스(ICED)",
         "volume": 708.0,
         "sugar_content": 41.0,
         "calories": 237.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2024/01/%EC%A0%9C%EC%A3%BC%EA%B0%90%EA%B7%A4%EC%A3%BC%EC%8A%A4_thumb-450x588.png"
+        "sodium_content": 7.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/01/%EC%A0%9C%EC%A3%BC%EA%B0%90%EA%B7%A4%EC%A3%BC%EC%8A%A4_thumb-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "우리수박주스(ICED)",
+        "name": "우리수박주스(ICED)",
         "volume": 650.0,
         "sugar_content": 53.0,
         "calories": 262.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EC%88%98%EB%B0%95%EC%A3%BC%EC%8A%A4-450x588.png"
+        "sodium_content": 5.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EC%88%98%EB%B0%95%EC%A3%BC%EC%8A%A4-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "블루캔디밀크쉐이크(ICED)",
+        "name": "블루캔디밀크쉐이크(ICED)",
         "volume": 472.0,
         "sugar_content": 61.0,
         "calories": 483.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2024/03/%EB%B8%94%EB%A3%A8%EC%BA%94%EB%94%94%EB%B0%80%ED%81%AC%EC%89%90%EC%9D%B4%ED%81%AC-450x588.png"
+        "sodium_content": 276.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2024/03/%EB%B8%94%EB%A3%A8%EC%BA%94%EB%94%94%EB%B0%80%ED%81%AC%EC%89%90%EC%9D%B4%ED%81%AC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "블루캔디소다(ICED)",
+        "name": "블루캔디소다(ICED)",
         "volume": 708.0,
         "sugar_content": 52.0,
         "calories": 225.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2022/05/%EB%B8%94%EB%A3%A8%EC%BA%94%EB%94%94%EC%86%8C%EB%8B%A4-450x588.png"
+        "sodium_content": 8.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/05/%EB%B8%94%EB%A3%A8%EC%BA%94%EB%94%94%EC%86%8C%EB%8B%A4-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "초코라떼(HOT)",
+        "name": "초코라떼(HOT)",
         "volume": 472.0,
         "sugar_content": 45.0,
         "calories": 342.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94-450x588.png"
+        "sodium_content": 108.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "초코라떼(ICED)",
+        "name": "초코라떼(ICED)",
         "volume": 708.0,
         "sugar_content": 56.0,
         "calories": 387.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94-450x588.png"
+        "sodium_content": 126.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "녹차라떼(HOT)",
+        "name": "녹차라떼(HOT)",
         "volume": 472.0,
         "sugar_content": 63.0,
         "calories": 481.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EB%85%B9%EC%B0%A8%EB%9D%BC%EB%96%BC-1-450x588.png"
+        "sodium_content": 156.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EB%85%B9%EC%B0%A8%EB%9D%BC%EB%96%BC-1-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "녹차라떼(ICED)",
+        "name": "녹차라떼(ICED)",
         "volume": 708.0,
         "sugar_content": 49.0,
         "calories": 361.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EB%85%B9%EC%B0%A8%EB%9D%BC%EB%96%BC-2-450x588.png"
+        "sodium_content": 116.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EB%85%B9%EC%B0%A8%EB%9D%BC%EB%96%BC-2-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "민트초코라떼(HOT)",
+        "name": "민트초코라떼(HOT)",
         "volume": 472.0,
         "sugar_content": 58.0,
         "calories": 413.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EB%AF%BC%ED%8A%B8%EC%B4%88%EC%BD%94%EB%9D%BC%EB%96%BC-450x588.png"
+        "sodium_content": 187.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EB%AF%BC%ED%8A%B8%EC%B4%88%EC%BD%94%EB%9D%BC%EB%96%BC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "민트초코라떼(ICED)",
+        "name": "민트초코라떼(ICED)",
         "volume": 708.0,
         "sugar_content": 43.0,
         "calories": 498.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EB%AF%BC%ED%8A%B8%EC%B4%88%EC%BD%94%EB%9D%BC%EB%96%BC-450x588.png"
+        "sodium_content": 210.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EB%AF%BC%ED%8A%B8%EC%B4%88%EC%BD%94%EB%9D%BC%EB%96%BC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "토피넛라떼(HOT)",
+        "name": "토피넛라떼(HOT)",
         "volume": 472.0,
         "sugar_content": 19.0,
         "calories": 411.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%ED%86%A0%ED%94%BC%EB%84%9B%EB%9D%BC%EB%96%BC-450x588.png"
+        "sodium_content": 174.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%ED%86%A0%ED%94%BC%EB%84%9B%EB%9D%BC%EB%96%BC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "토피넛라떼(ICED)",
+        "name": "토피넛라떼(ICED)",
         "volume": 708.0,
         "sugar_content": 16.0,
         "calories": 469.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%ED%86%A0%ED%94%BC%EB%84%9B%EB%9D%BC%EB%96%BC-450x588.png"
+        "sodium_content": 197.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%ED%86%A0%ED%94%BC%EB%84%9B%EB%9D%BC%EB%96%BC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "블랙펄라떼(ICED)",
+        "name": "블랙펄라떼(ICED)",
         "volume": 708.0,
         "sugar_content": 51.0,
         "calories": 397.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EB%B8%94%EB%9E%99%ED%8E%84%EB%9D%BC%EB%96%BC_-450x588.png"
+        "sodium_content": 109.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EB%B8%94%EB%9E%99%ED%8E%84%EB%9D%BC%EB%96%BC_-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "미숫가루",
+        "name": "미숫가루",
         "volume": 708.0,
         "sugar_content": 38.0,
         "calories": 308.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EB%AF%B8%EC%88%AB%EA%B0%80%EB%A3%A8-450x588.png"
+        "sodium_content": 101.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EB%AF%B8%EC%88%AB%EA%B0%80%EB%A3%A8-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "체리콕콕(ICED)",
+        "name": "체리콕콕(ICED)",
         "volume": 708.0,
         "sugar_content": 72.0,
         "calories": 290.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EC%B2%B4%EB%A6%AC%EC%BD%95%EC%BD%95-450x588.png"
+        "sodium_content": 7.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/03/%EC%B2%B4%EB%A6%AC%EC%BD%95%EC%BD%95-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "밀크티(HOT)",
+        "name": "밀크티(HOT)",
         "volume": 472.0,
         "sugar_content": 35.0,
         "calories": 313.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EB%B0%80%ED%81%AC%ED%8B%B0-450x588.png"
+        "sodium_content": 70.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EB%B0%80%ED%81%AC%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "밀크티(ICED)",
+        "name": "밀크티(ICED)",
         "volume": 708.0,
         "sugar_content": 37.0,
         "calories": 353.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EB%B0%80%ED%81%AC%ED%8B%B0-450x588.png"
+        "sodium_content": 77.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EB%B0%80%ED%81%AC%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "블랙펄밀크티(ICED)",
+        "name": "블랙펄밀크티(ICED)",
         "volume": 708.0,
         "sugar_content": 60.0,
         "calories": 513.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EB%B8%94%EB%9E%99%ED%8E%84%EB%B0%80%ED%81%AC%ED%8B%B0-450x588.png"
+        "sodium_content": 82.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EB%B8%94%EB%9E%99%ED%8E%84%EB%B0%80%ED%81%AC%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "페퍼민트티(HOT)",
+        "name": "페퍼민트티(HOT)",
         "volume": 472.0,
-        "sugar_content": 0.0,
+        "sugar_content": null,
         "calories": 1.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2021/07/HOT-%ED%8E%98%ED%8D%BC%EB%AF%BC%ED%8A%B8%ED%8B%B0-450x588.png"
+        "sodium_content": 4.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2021/07/HOT-%ED%8E%98%ED%8D%BC%EB%AF%BC%ED%8A%B8%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "페퍼민트티(ICED)",
+        "name": "페퍼민트티(ICED)",
         "volume": 708.0,
-        "sugar_content": 0.0,
+        "sugar_content": null,
         "calories": 1.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2021/07/ICED-%ED%8E%98%ED%8D%BC%EB%AF%BC%ED%8A%B8%ED%8B%B0-450x588.png"
+        "sodium_content": 4.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2021/07/ICED-%ED%8E%98%ED%8D%BC%EB%AF%BC%ED%8A%B8%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "황금캐모마일티(HOT)",
+        "name": "황금캐모마일티(HOT)",
         "volume": 472.0,
         "sugar_content": 0.0,
         "calories": 7.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%ED%99%A9%EA%B8%88%EC%BA%90%EB%AA%A8%EB%A7%88%EC%9D%BC%ED%8B%B0-450x588.png"
+        "sodium_content": 4.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%ED%99%A9%EA%B8%88%EC%BA%90%EB%AA%A8%EB%A7%88%EC%9D%BC%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "황금캐모마일티(ICED)",
+        "name": "황금캐모마일티(ICED)",
         "volume": 708.0,
         "sugar_content": 0.0,
         "calories": 8.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%ED%99%A9%EA%B8%88%EC%BA%90%EB%AA%A8%EB%A7%88%EC%9D%BC%ED%8B%B0-450x588.png"
+        "sodium_content": 3.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%ED%99%A9%EA%B8%88%EC%BA%90%EB%AA%A8%EB%A7%88%EC%9D%BC%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "깔라만시티(HOT)",
+        "name": "깔라만시티(HOT)",
         "volume": 472.0,
         "sugar_content": 66.0,
         "calories": 268.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EA%B9%94%EB%9D%BC%EB%A7%8C%EC%8B%9C%ED%8B%B0-450x588.png"
+        "sodium_content": 130.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EA%B9%94%EB%9D%BC%EB%A7%8C%EC%8B%9C%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "깔라만시티(ICED)",
+        "name": "깔라만시티(ICED)",
         "volume": 708.0,
         "sugar_content": 59.0,
         "calories": 243.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/04/%EA%B9%94%EB%9D%BC%EB%A7%8C%EC%8B%9C%ED%8B%B0-450x588.png"
+        "sodium_content": 117.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/04/%EA%B9%94%EB%9D%BC%EB%A7%8C%EC%8B%9C%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "달콤아이스티",
+        "name": "달콤아이스티",
         "volume": 708.0,
         "sugar_content": 63.0,
         "calories": 267.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EB%8B%AC%EC%BD%A4%EC%95%84%EC%9D%B4%EC%8A%A4%ED%8B%B0-450x588.png"
+        "sodium_content": 19.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EB%8B%AC%EC%BD%A4%EC%95%84%EC%9D%B4%EC%8A%A4%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "레몬티(HOT)",
+        "name": "레몬티(HOT)",
         "volume": 472.0,
         "sugar_content": 66.0,
         "calories": 272.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EB%A0%88%EB%AA%AC%ED%8B%B0-450x588.png"
+        "sodium_content": 60.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EB%A0%88%EB%AA%AC%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "레몬티(ICED)",
+        "name": "레몬티(ICED)",
         "volume": 708.0,
         "sugar_content": 67.0,
         "calories": 277.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EB%A0%88%EB%AA%AC%ED%8B%B0-450x588.png"
+        "sodium_content": 118.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EB%A0%88%EB%AA%AC%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "피치우롱스위티(HOT)",
+        "name": "피치우롱스위티(HOT)",
         "volume": 472.0,
         "sugar_content": 35.0,
         "calories": 150.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%ED%94%BC%EC%B9%98%EC%9A%B0%EB%A1%B1%EC%8A%A4%EC%9C%84%ED%8B%B0-1-450x588.png"
+        "sodium_content": 7.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%ED%94%BC%EC%B9%98%EC%9A%B0%EB%A1%B1%EC%8A%A4%EC%9C%84%ED%8B%B0-1-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "피치우롱스위티(ICED)",
+        "name": "피치우롱스위티(ICED)",
         "volume": 708.0,
         "sugar_content": 32.0,
         "calories": 150.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%ED%94%BC%EC%B9%98%EC%9A%B0%EB%A1%B1%EC%8A%A4%EC%9C%84%ED%8B%B0-1-450x588.png"
+        "sodium_content": 5.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%ED%94%BC%EC%B9%98%EC%9A%B0%EB%A1%B1%EC%8A%A4%EC%9C%84%ED%8B%B0-1-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "우롱티(HOT)",
+        "name": "우롱티(HOT)",
         "volume": 472.0,
         "sugar_content": 0.0,
         "calories": 7.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EC%9A%B0%EB%A1%B1%ED%8B%B0-450x588.png"
+        "sodium_content": 5.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EC%9A%B0%EB%A1%B1%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "우롱티(ICED)",
+        "name": "우롱티(ICED)",
         "volume": 708.0,
         "sugar_content": 0.0,
         "calories": 3.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EC%9A%B0%EB%A1%B1%ED%8B%B0-450x588.png"
+        "sodium_content": 1.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EC%9A%B0%EB%A1%B1%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "레몬얼그레이티(HOT)",
+        "name": "레몬얼그레이티(HOT)",
         "volume": 472.0,
         "sugar_content": 25.0,
         "calories": 110.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EB%A0%88%EB%AA%AC%EC%96%BC%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%8B%B0-450x588.png"
+        "sodium_content": 1.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EB%A0%88%EB%AA%AC%EC%96%BC%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "레몬얼그레이티(ICED)",
+        "name": "레몬얼그레이티(ICED)",
         "volume": 708.0,
         "sugar_content": 25.0,
         "calories": 110.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EB%A0%88%EB%AA%AC%EC%96%BC%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%8B%B0-450x588.png"
+        "sodium_content": 1.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EB%A0%88%EB%AA%AC%EC%96%BC%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "오렌지자몽블랙티(HOT)",
+        "name": "오렌지자몽블랙티(HOT)",
         "volume": 472.0,
         "sugar_content": 25.0,
         "calories": 110.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EC%98%A4%EB%A0%8C%EC%A7%80%EC%9E%90%EB%AA%BD%EB%B8%94%EB%9E%99%ED%8B%B0-450x588.png"
+        "sodium_content": 1.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EC%98%A4%EB%A0%8C%EC%A7%80%EC%9E%90%EB%AA%BD%EB%B8%94%EB%9E%99%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "오렌지자몽블랙티(ICED)",
+        "name": "오렌지자몽블랙티(ICED)",
         "volume": 708.0,
         "sugar_content": 25.0,
         "calories": 110.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EC%98%A4%EB%A0%8C%EC%A7%80%EC%9E%90%EB%AA%BD%EB%B8%94%EB%9E%99%ED%8B%B0-450x588.png"
+        "sodium_content": 1.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EC%98%A4%EB%A0%8C%EC%A7%80%EC%9E%90%EB%AA%BD%EB%B8%94%EB%9E%99%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "유자티(ICED)",
+        "name": "유자티(ICED)",
         "volume": 708.0,
         "sugar_content": 64.0,
         "calories": 261.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EC%9C%A0%EC%9E%90%ED%8B%B0_%EC%95%84%EC%9D%B4%EC%8A%A4-450x588.png"
+        "sodium_content": 58.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EC%9C%A0%EC%9E%90%ED%8B%B0_%EC%95%84%EC%9D%B4%EC%8A%A4-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "자몽티(HOT)",
+        "name": "자몽티(HOT)",
         "volume": 472.0,
         "sugar_content": 66.0,
         "calories": 281.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EC%9E%90%EB%AA%BD%ED%8B%B0-450x588.png"
+        "sodium_content": 15.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/HOT-%EC%9E%90%EB%AA%BD%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "자몽티(ICED)",
+        "name": "자몽티(ICED)",
         "volume": 708.0,
         "sugar_content": 52.0,
         "calories": 242.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EC%9E%90%EB%AA%BD%ED%8B%B0-450x588.png"
+        "sodium_content": 27.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/ICED-%EC%9E%90%EB%AA%BD%ED%8B%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "청포도플라워(ICED)",
+        "name": "청포도플라워(ICED)",
         "volume": 708.0,
         "sugar_content": 52.0,
         "calories": 220.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EC%B2%AD%ED%8F%AC%EB%8F%84%ED%94%8C%EB%9D%BC%EC%9B%8C-450x588.png"
+        "sodium_content": 6.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EC%B2%AD%ED%8F%AC%EB%8F%84%ED%94%8C%EB%9D%BC%EC%9B%8C-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "아이스미초(ICED)",
+        "name": "아이스미초(ICED)",
         "volume": 708.0,
         "sugar_content": 36.0,
         "calories": 147.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EC%95%84%EC%9D%B4%EC%8A%A4%EB%AF%B8%EC%B4%88%EC%84%9D%EB%A5%98-450x588.png"
+        "sodium_content": 9.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EC%95%84%EC%9D%B4%EC%8A%A4%EB%AF%B8%EC%B4%88%EC%84%9D%EB%A5%98-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "딸기에이드(ICED)",
+        "name": "딸기에이드(ICED)",
         "volume": 708.0,
         "sugar_content": 39.0,
         "calories": 184.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2022/02/%EB%94%B8%EA%B8%B0%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png"
+        "sodium_content": 10.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/02/%EB%94%B8%EA%B8%B0%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "레모네이드(ICED)",
+        "name": "레모네이드(ICED)",
         "volume": 708.0,
         "sugar_content": 60.0,
         "calories": 246.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EB%A0%88%EB%AA%A8%EB%84%A4%EC%9D%B4%EB%93%9C-450x588.png"
+        "sodium_content": 55.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EB%A0%88%EB%AA%A8%EB%84%A4%EC%9D%B4%EB%93%9C-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "청포도에이드(ICED)",
+        "name": "청포도에이드(ICED)",
         "volume": 708.0,
         "sugar_content": 56.0,
         "calories": 234.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EC%B2%AD%ED%8F%AC%EB%8F%84%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png"
+        "sodium_content": 8.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EC%B2%AD%ED%8F%AC%EB%8F%84%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "깔라만시에이드(ICED)",
+        "name": "깔라만시에이드(ICED)",
         "volume": 708.0,
         "sugar_content": 50.0,
         "calories": 215.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EA%B9%94%EB%9D%BC%EB%A7%8C%EC%8B%9C%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png"
+        "sodium_content": 81.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EA%B9%94%EB%9D%BC%EB%A7%8C%EC%8B%9C%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "유자에이드(ICED)",
+        "name": "유자에이드(ICED)",
         "volume": 708.0,
         "sugar_content": 62.0,
         "calories": 251.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EC%9C%A0%EC%9E%90%EC%97%90%EC%9D%B4%EB%93%9C-1-450x588.png"
+        "sodium_content": 51.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EC%9C%A0%EC%9E%90%EC%97%90%EC%9D%B4%EB%93%9C-1-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "자몽에이드(ICED)",
+        "name": "자몽에이드(ICED)",
         "volume": 708.0,
         "sugar_content": 61.0,
         "calories": 258.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EC%9E%90%EB%AA%BD%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png"
+        "sodium_content": 16.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/06/%EC%9E%90%EB%AA%BD%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "복숭아에이드(ICED)",
+        "name": "복숭아에이드(ICED)",
         "volume": 708.0,
         "sugar_content": 54.0,
         "calories": 241.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%B3%B5%EC%88%AD%EC%95%84%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png"
+        "sodium_content": 6.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%B3%B5%EC%88%AD%EC%95%84%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "미초(석류)에이드(ICED)",
+        "name": "미초(석류)에이드(ICED)",
         "volume": 708.0,
         "sugar_content": 32.0,
         "calories": 141.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%AF%B8%EC%B4%88%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png"
+        "sodium_content": 5.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%AF%B8%EC%B4%88%EC%97%90%EC%9D%B4%EB%93%9C-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "완전파인애플주스",
+        "name": "완전파인애플주스",
         "volume": 472.0,
         "sugar_content": 32.0,
         "calories": 192.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%ED%8C%8C%EC%9D%B8%EC%95%A0%ED%94%8C-450x588.png"
+        "sodium_content": 5.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%ED%8C%8C%EC%9D%B8%EC%95%A0%ED%94%8C-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "완전토마토주스",
+        "name": "완전토마토주스",
         "volume": 543.0,
         "sugar_content": 36.0,
         "calories": 159.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2021/12/%EC%99%84%EC%A0%84%ED%86%A0%EB%A7%88%ED%86%A0-450x588.png"
+        "sodium_content": 10.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2021/12/%EC%99%84%EC%A0%84%ED%86%A0%EB%A7%88%ED%86%A0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "완전딸기주스(ICED)",
+        "name": "완전딸기주스(ICED)",
         "volume": 708.0,
         "sugar_content": 43.0,
         "calories": 224.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EB%94%B8%EA%B8%B0-450x588.png"
+        "sodium_content": 7.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EB%94%B8%EA%B8%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "완전망고주스(ICED)",
+        "name": "완전망고주스(ICED)",
         "volume": 708.0,
         "sugar_content": 37.0,
         "calories": 241.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EB%A7%9D%EA%B3%A0-450x588.png"
+        "sodium_content": 7.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EB%A7%9D%EA%B3%A0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "완전블루베리주스(ICED)",
+        "name": "완전블루베리주스(ICED)",
         "volume": 708.0,
         "sugar_content": 49.0,
         "calories": 231.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/04/%EB%B8%94%EB%A3%A8%EB%B2%A0%EB%A6%AC%EC%A3%BC%EC%8A%A4-450x588.png"
+        "sodium_content": 6.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/04/%EB%B8%94%EB%A3%A8%EB%B2%A0%EB%A6%AC%EC%A3%BC%EC%8A%A4-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "블루베리요거트스무디(ICED)",
+        "name": "블루베리요거트스무디(ICED)",
         "volume": 708.0,
         "sugar_content": 74.0,
         "calories": 484.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2023/04/%EB%B8%94%EB%A3%A8%EB%B2%A0%EB%A6%AC%EC%9A%94%EA%B1%B0%ED%8A%B8%EC%8A%A4%EB%AC%B4%EB%94%94-450x588.png"
+        "sodium_content": 99.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2023/04/%EB%B8%94%EB%A3%A8%EB%B2%A0%EB%A6%AC%EC%9A%94%EA%B1%B0%ED%8A%B8%EC%8A%A4%EB%AC%B4%EB%94%94-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "밀크쉐이크(ICED)",
+        "name": "밀크쉐이크(ICED)",
         "volume": 708.0,
         "sugar_content": 52.0,
         "calories": 535.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%B0%80%ED%81%AC%EC%89%90%EC%9D%B4%ED%81%AC-2-450x588.png"
+        "sodium_content": 390.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%B0%80%ED%81%AC%EC%89%90%EC%9D%B4%ED%81%AC-2-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "플레인요거트스무디(ICED)",
+        "name": "플레인요거트스무디(ICED)",
         "volume": 708.0,
         "sugar_content": 94.0,
         "calories": 494.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%ED%94%8C%EB%A0%88%EC%9D%B8%EC%9A%94%EA%B1%B0%ED%8A%B8%EC%8A%A4%EB%AC%B4%EB%94%94-450x588.png"
+        "sodium_content": 77.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%ED%94%8C%EB%A0%88%EC%9D%B8%EC%9A%94%EA%B1%B0%ED%8A%B8%EC%8A%A4%EB%AC%B4%EB%94%94-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "딸기요거트스무디(ICED)",
+        "name": "딸기요거트스무디(ICED)",
         "volume": 708.0,
         "sugar_content": 45.0,
         "calories": 448.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%94%B8%EA%B8%B0%EC%9A%94%EA%B1%B0%ED%8A%B8%EC%8A%A4%EB%AC%B4%EB%94%94-2-450x588.png"
+        "sodium_content": 109.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%94%B8%EA%B8%B0%EC%9A%94%EA%B1%B0%ED%8A%B8%EC%8A%A4%EB%AC%B4%EB%94%94-2-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "빽사이즈 초코라떼(ICED)",
+        "name": "빽사이즈 초코라떼(ICED)",
         "volume": 944.0,
         "sugar_content": 90.0,
         "calories": 555.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/04/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94-32oz-450x588.png"
+        "sodium_content": 333.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/04/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94-32oz-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "빽사이즈 달콤아이스티(ICED)",
+        "name": "빽사이즈 달콤아이스티(ICED)",
         "volume": 944.0,
         "sugar_content": 95.0,
         "calories": 406.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/04/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EB%8B%AC%EC%BD%A4%EC%95%84%EC%9D%B4%EC%8A%A4%ED%8B%B0-32oz-450x588.png"
+        "sodium_content": 29.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/04/%EB%B9%BD%EC%82%AC%EC%9D%B4%EC%A6%88-%EB%8B%AC%EC%BD%A4%EC%95%84%EC%9D%B4%EC%8A%A4%ED%8B%B0-32oz-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "딸기라떼(ICED)",
+        "name": "딸기라떼(ICED)",
         "volume": 708.0,
         "sugar_content": 54.0,
         "calories": 331.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2022/02/%EB%94%B8%EA%B8%B0%EB%9D%BC%EB%96%BC-450x588.png"
+        "sodium_content": 83.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2022/02/%EB%94%B8%EA%B8%B0%EB%9D%BC%EB%96%BC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "원조빽스치노(BASIC)",
+        "name": "원조빽스치노(BASIC)",
         "volume": 625.0,
         "sugar_content": 75.0,
         "calories": 578.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%9B%90%EC%A1%B0%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png"
+        "sodium_content": 122.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%9B%90%EC%A1%B0%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "원조빽스치노(SOFT)",
+        "name": "원조빽스치노(SOFT)",
         "volume": 765.0,
         "sugar_content": 87.0,
         "calories": 785.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%9B%90%EC%A1%B0%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png"
+        "sodium_content": 166.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%9B%90%EC%A1%B0%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "딸기바나나빽스치노(BASIC)",
+        "name": "딸기바나나빽스치노(BASIC)",
         "volume": 625.0,
         "sugar_content": 93.0,
         "calories": 500.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EB%94%B8%EA%B8%B0%EB%B0%94%EB%82%98%EB%82%98-BASIC-450x588.png"
+        "sodium_content": 108.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EB%94%B8%EA%B8%B0%EB%B0%94%EB%82%98%EB%82%98-BASIC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "딸기바나나빽스치노(SOFT)",
+        "name": "딸기바나나빽스치노(SOFT)",
         "volume": 765.0,
         "sugar_content": 138.0,
         "calories": 685.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EB%94%B8%EA%B8%B0%EB%B0%94%EB%82%98%EB%82%98-SOFT-450x588.png"
+        "sodium_content": 164.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EB%94%B8%EA%B8%B0%EB%B0%94%EB%82%98%EB%82%98-SOFT-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "초코바나나빽스치노(BASIC)",
+        "name": "초코바나나빽스치노(BASIC)",
         "volume": 625.0,
         "sugar_content": 72.0,
         "calories": 607.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94%EB%B0%94%EB%82%98%EB%82%98-BASIC-450x588.png"
+        "sodium_content": 181.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94%EB%B0%94%EB%82%98%EB%82%98-BASIC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "초코바나나빽스치노(SOFT)",
+        "name": "초코바나나빽스치노(SOFT)",
         "volume": 765.0,
         "sugar_content": 117.0,
         "calories": 792.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94%EB%B0%94%EB%82%98%EB%82%98_%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png"
+        "sodium_content": 237.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94%EB%B0%94%EB%82%98%EB%82%98_%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "딸기 빽스치노(BASIC)",
+        "name": "딸기 빽스치노(BASIC)",
         "volume": 625.0,
         "sugar_content": 86.0,
         "calories": 480.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EB%94%B8%EA%B8%B0%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png"
+        "sodium_content": 127.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EB%94%B8%EA%B8%B0%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "딸기 빽스치노(SOFT)",
+        "name": "딸기 빽스치노(SOFT)",
         "volume": 765.0,
         "sugar_content": 98.0,
         "calories": 687.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EB%94%B8%EA%B8%B0%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png"
+        "sodium_content": 170.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EB%94%B8%EA%B8%B0%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "녹차빽스치노(BASIC)",
+        "name": "녹차빽스치노(BASIC)",
         "volume": 625.0,
         "sugar_content": 90.0,
         "calories": 548.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%85%B9%EC%B0%A8%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png"
+        "sodium_content": 157.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%85%B9%EC%B0%A8%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "녹차빽스치노(SOFT)",
+        "name": "녹차빽스치노(SOFT)",
         "volume": 765.0,
         "sugar_content": 103.0,
         "calories": 755.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%85%B9%EC%B0%A8%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png"
+        "sodium_content": 200.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%85%B9%EC%B0%A8%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "민트초코빽스치노(BASIC)",
+        "name": "민트초코빽스치노(BASIC)",
         "volume": 630.0,
         "sugar_content": 28.0,
         "calories": 602.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%AF%BC%ED%8A%B8%EC%B4%88%EC%BD%94%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png"
+        "sodium_content": 244.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%AF%BC%ED%8A%B8%EC%B4%88%EC%BD%94%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "민트초코빽스치노(SOFT)",
+        "name": "민트초코빽스치노(SOFT)",
         "volume": 770.0,
         "sugar_content": 40.0,
         "calories": 809.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%AF%BC%ED%8A%B8%EC%B4%88%EC%BD%94%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png"
+        "sodium_content": 287.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EB%AF%BC%ED%8A%B8%EC%B4%88%EC%BD%94%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "쿠키크런치빽스치노(BASIC)",
+        "name": "쿠키크런치빽스치노(BASIC)",
         "volume": 628.5,
         "sugar_content": 93.0,
         "calories": 768.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%BF%A0%ED%82%A4%ED%81%AC%EB%9F%B0%EC%B9%98%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png"
+        "sodium_content": 247.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%BF%A0%ED%82%A4%ED%81%AC%EB%9F%B0%EC%B9%98%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "쿠키크런치빽스치노(SOFT)",
+        "name": "쿠키크런치빽스치노(SOFT)",
         "volume": 748.5,
         "sugar_content": 103.0,
         "calories": 942.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%BF%A0%ED%82%A4%ED%81%AC%EB%9F%B0%EC%B9%98%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png"
+        "sodium_content": 284.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%BF%A0%ED%82%A4%ED%81%AC%EB%9F%B0%EC%B9%98%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "초코빽스치노(BASIC)",
+        "name": "초코빽스치노(BASIC)",
         "volume": 570.5,
         "sugar_content": 92.0,
         "calories": 520.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png"
+        "sodium_content": 119.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "초코빽스치노(SOFT)",
+        "name": "초코빽스치노(SOFT)",
         "volume": 690.5,
         "sugar_content": 103.0,
         "calories": 694.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png"
+        "sodium_content": 155.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%EC%99%84%EC%A0%84%EC%B4%88%EC%BD%94%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "피스타치오빽스치노(BASIC)",
+        "name": "피스타치오빽스치노(BASIC)",
         "volume": 625.0,
         "sugar_content": 12.0,
         "calories": 535.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%ED%94%BC%EC%8A%A4%ED%83%80%EC%B9%98%EC%98%A4%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png"
+        "sodium_content": 329.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%ED%94%BC%EC%8A%A4%ED%83%80%EC%B9%98%EC%98%A4%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-BASIC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "피스타치오빽스치노(SOFT)",
+        "name": "피스타치오빽스치노(SOFT)",
         "volume": 765.0,
         "sugar_content": 24.0,
         "calories": 742.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%ED%94%BC%EC%8A%A4%ED%83%80%EC%B9%98%EC%98%A4%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png"
+        "sodium_content": 373.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%ED%94%BC%EC%8A%A4%ED%83%80%EC%B9%98%EC%98%A4%EB%B9%BD%EC%8A%A4%EC%B9%98%EB%85%B8-SOFT-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "퐁당치노(바닐라)",
+        "name": "퐁당치노(바닐라)",
         "volume": 531.0,
         "sugar_content": 60.0,
         "calories": 496.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%ED%90%81%EB%8B%B9%EC%B9%98%EB%85%B8_%EB%B0%94%EB%8B%90%EB%9D%BC-450x588.png"
+        "sodium_content": 211.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%ED%90%81%EB%8B%B9%EC%B9%98%EB%85%B8_%EB%B0%94%EB%8B%90%EB%9D%BC-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "퐁당치노(원조커피)",
+        "name": "퐁당치노(원조커피)",
         "volume": 538.0,
         "sugar_content": 54.0,
         "calories": 483.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%ED%90%81%EB%8B%B9%EC%B9%98%EB%85%B8_%EC%9B%90%EC%A1%B0-450x588.png"
+        "sodium_content": 106.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%ED%90%81%EB%8B%B9%EC%B9%98%EB%85%B8_%EC%9B%90%EC%A1%B0-450x588.png",
+        "cafe_id": 2
     },
     {
-        "cafe_id": 5,
-        "drink_name": "퐁당치노(미숫가루)",
+        "name": "퐁당치노(미숫가루)",
         "volume": 592.0,
         "sugar_content": 74.0,
         "calories": 613.0,
-        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%ED%90%81%EB%8B%B9%EC%B9%98%EB%85%B8_%EB%AF%B8%EC%88%AB%EA%B0%80%EB%A3%A8-450x588.png"
+        "sodium_content": 214.0,
+        "image_url": "https://paikdabang.com/wp-content/uploads/2018/05/%ED%90%81%EB%8B%B9%EC%B9%98%EB%85%B8_%EB%AF%B8%EC%88%AB%EA%B0%80%EB%A3%A8-450x588.png",
+        "cafe_id": 2
     }
 ]

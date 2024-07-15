@@ -74,6 +74,14 @@ def crawl_and_save(url, cafe_id):
                 except NoSuchElementException:
                     sugar = 0.0
 
+                # 나트륨
+                sodium_xpath = f'//*[@id="content-wrap"]/div[2]/div/div[2]/ul/li[{i+1}]/div[2]/div[2]/ul/li[3]/div[2]'
+                try:
+                    sodium_text = driver.find_element(By.XPATH, sodium_xpath).text
+                    sodium = extract_last_number(sodium_text)
+                except NoSuchElementException:
+                    sodium = 0.0
+
                 # 칼로리
                 calories_xpath = f'//*[@id="content-wrap"]/div[2]/div/div[2]/ul/li[{i+1}]/div[2]/div[2]/ul/li[2]/div[2]'
                 calories_text = driver.find_element(By.XPATH, calories_xpath).text
@@ -86,12 +94,13 @@ def crawl_and_save(url, cafe_id):
 
                 # 음료 정보 저장
                 drinks.append({
-                    "cafe_id": 5,
-                    "drink_name": name,
+                    "name": name,
                     "volume": volume,
                     "sugar_content": sugar,
                     "calories": calories,
-                    "image_url": image_url
+                    "sodium_content": sodium,
+                    "image_url": image_url,
+                    "cafe_id": 2
                 })
 
                 # 상세 정보 창 닫기 (필요에 따라 수정)

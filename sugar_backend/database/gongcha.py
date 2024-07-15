@@ -5,7 +5,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import ElementClickInterceptedException, TimeoutException
+from selenium.common.exceptions import ElementClickInterceptedException, TimeoutException, NoSuchElementException
 import json
 import time
 import re
@@ -22,30 +22,28 @@ def extract_last_number(text):
     matches = re.findall(r"[-+]?\d*\.\d+|\d+", text)
     return float(matches[-1]) if matches else None
 
-def crawl_and_save():
+def get_volume(volume_text):
+    volume = extract_last_number(volume_text)
+    if volume_text.strip().lower().endswith("oz"):
+        return volume * 29.5  # Convert oz to ml
+    else:
+        return volume
+    return None  # Handle cases where the unit is unknown or missing
+
+def crawl_and_save(url, cafe_id):
     drinks = []
-    page_number = 1
+    driver.get(url)
+    wait_until_page_loaded(driver)
 
-    next_page_selectors = [
-        '#board_page > li:nth-child(6) > a',
-        '#board_page > li:nth-child(7) > a',
-        '#board_page > li:nth-child(7) > a',
-        '#board_page > li:nth-child(7) > a',
-        '#board_page > li:nth-child(7) > a',
-        '#board_page > li:nth-child(7) > a',
-        '#board_page > li:nth-child(7) > a'
-    ]
-
-    while page_number <= len(next_page_selectors) + 1:
-        print(f"페이지 {page_number} 수집 중...")
+    while True:
         # 음료 목록을 가져옴
-        drink_buttons = driver.find_elements(By.XPATH, '//*[@id="menu_list"]/li/a/div/div[2]/div[1]/div[1]')
+        drink_buttons = driver.find_elements(By.XPATH, '//*[@id="content-wrap"]/div[2]/div/div[2]/ul/li/p')
         print(len(drink_buttons))
 
         for i in range(len(drink_buttons)):
             # 각 음료 버튼을 클릭하여 상세 정보 확인
             try:
-                drink_button_xpath = f'//*[@id="menu_list"]/li[{i + 1}]/a/div/div[2]/div[1]/div[1]'
+                drink_button_xpath = f'//*[@id="content-wrap"]/div[2]/div/div[2]/ul/li[{i+1}]/p'
                 drink_button = driver.find_element(By.XPATH, drink_button_xpath)
 
                 # 스크롤하여 요소를 화면에 표시
@@ -58,79 +56,78 @@ def crawl_and_save():
                 driver.execute_script("arguments[0].click();", drink_button)
 
                 # 음료 이름
-                name_xpath = f'//*[@id="menu_list"]/li[{i + 1}]/div/div[1]/div[1]/div[1]/b'
+                name_xpath = f'//*[@id="content-wrap"]/div[2]/div/div[2]/ul/li[{i+1}]/div[2]/h3'
                 name = WebDriverWait(driver, 10).until(
                     EC.visibility_of_element_located((By.XPATH, name_xpath))
                 ).text
                 
                 # 용량
-                volume_xpath = f'//*[@id="menu_list"]/li[{i + 1}]/div/div[1]/div[2]/div[1]'
+                volume_xpath = f'//*[@id="content-wrap"]/div[2]/div/div[2]/ul/li[{i+1}]/div[2]/div[2]/p'
                 volume_text = driver.find_element(By.XPATH, volume_xpath).text
-                volume = extract_last_number(volume_text)
+                volume = get_volume(volume_text)
                 
                 # 당류
-                sugar_xpath = f'//*[@id="menu_list"]/li[{i + 1}]/div/div[2]/ul/li[2]'
-                sugar_text = driver.find_element(By.XPATH, sugar_xpath).text
-                sugar = extract_last_number(sugar_text)
+                sugar_xpath = f'//*[@id="content-wrap"]/div[2]/div/div[2]/ul/li[{i+1}]/div[2]/div[2]/ul/li[4]/div[2]'
+                try:
+                    sugar_text = driver.find_element(By.XPATH, sugar_xpath).text
+                    sugar = extract_last_number(sugar_text)
+                except NoSuchElementException:
+                    sugar = 0.0
 
                 # 나트륨
-                sodium_xpath = f'//*[@id="menu_list"]/li[{i + 1}]/div/div[2]/ul/li[3]'
-                sodium_text = driver.find_element(By.XPATH, sodium_xpath).text
-                sodium = extract_last_number(sodium_text)
-
+                sodium_xpath = f'//*[@id="content-wrap"]/div[2]/div/div[2]/ul/li[{i+1}]/div[2]/div[2]/ul/li[3]/div[2]'
+                try:
+                    sodium_text = driver.find_element(By.XPATH, sodium_xpath).text
+                    sodium = extract_last_number(sodium_text)
+                except NoSuchElementException:
+                    sodium = 0.0
 
                 # 칼로리
-                calories_xpath = f'//*[@id="menu_list"]/li[{i + 1}]/div/div[1]/div[2]/div[2]'
+                calories_xpath = f'//*[@id="content-wrap"]/div[2]/div/div[2]/ul/li[{i+1}]/div[2]/div[2]/ul/li[2]/div[2]'
                 calories_text = driver.find_element(By.XPATH, calories_xpath).text
                 calories = extract_last_number(calories_text)
 
                 # 이미지 URL
-                image_xpath = f'//*[@id="menu_list"]/li[{i+1}]/a/div/div[1]/img'
+                image_xpath = f'//*[@id="content-wrap"]/div[2]/div/div[2]/ul/li[{i+1}]/div[1]/img'
                 image_element = driver.find_element(By.XPATH, image_xpath)
                 image_url = image_element.get_attribute('src')
 
                 # 음료 정보 저장
                 drinks.append({
                     "name": name,
-                    "volume": volume*29.5,
+                    "volume": volume,
                     "sugar_content": sugar,
                     "calories": calories,
                     "sodium_content": sodium,
                     "image_url": image_url,
-                    "cafe_id": 1
+                    "cafe_id": 3
                 })
 
                 # 상세 정보 창 닫기 (필요에 따라 수정)
                 driver.find_element(By.TAG_NAME, 'body').send_keys(Keys.ESCAPE)
                 time.sleep(0.2)  # 대기 시간 추가
                 
-            except ElementClickInterceptedException as e:
-                print(f"Error collecting data for drink {i + 1}: {e}. Retrying...")
-                time.sleep(1)
-                driver.execute_script("arguments[0].scrollIntoView(true);", drink_button)
-                driver.execute_script("arguments[0].click();", drink_button)
+            except (ElementClickInterceptedException, NoSuchElementException, TimeoutException) as e:
+                print(f"Error collecting data for drink {i + 1}: {e}. Skipping...")
                 continue
 
-            except TimeoutException as e:
-                print(f"Timeout collecting data for drink {i + 1}: {e}")
-                continue
-
-            except Exception as e:
-                print(f"Error collecting data for drink {i + 1}: {e}")
-                continue
-
-        try:
-            next_page_button = driver.find_element(By.CSS_SELECTOR, next_page_selectors[page_number - 1])
-            driver.execute_script("arguments[0].scrollIntoView(true);", next_page_button)
-            driver.execute_script("arguments[0].click();", next_page_button)
-            time.sleep(2)  # 페이지 로딩 대기
-            wait_until_page_loaded(driver)
-            page_number += 1
-        except Exception as e:
-            print(f"오류 발생: {e}")
+        # 더 이상 페이지가 없으면 중지
+        if not next_page_exists(driver):
             break
 
     return drinks
+
+def next_page_exists(driver):
+    try:
+        next_page_button = driver.find_element(By.CSS_SELECTOR, '.next.page-numbers')
+        if next_page_button:
+            driver.execute_script("arguments[0].scrollIntoView(true);", next_page_button)
+            driver.execute_script("arguments[0].click();", next_page_button)
+            wait_until_page_loaded(driver)
+            return True
+    except NoSuchElementException:
+        return False
+    return False
 
 
 options = webdriver.ChromeOptions()
@@ -138,18 +135,25 @@ options.add_argument("--headless")
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 
-url = "https://mega-mgccoffee.com/menu/?menu_category1=1&menu_category2=1"
 driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
-driver.get(url)
 
-wait_until_page_loaded(driver)
+urls = [
+    ("https://www.gong-cha.co.kr/brand/menu/product.php?c=001006", 1),
+    ("https://www.gong-cha.co.kr/brand/menu/product.php?c=001010", 2),
+    ("https://www.gong-cha.co.kr/brand/menu/product.php?c=001003", 3),
+    ("https://www.gong-cha.co.kr/brand/menu/product.php?c=001015", 4)
+]
 
-drinks_data = crawl_and_save()
+drinks_data = []
+
+for url, cafe_id in urls:
+    print(f"수집 중: {url}")
+    drinks_data.extend(crawl_and_save(url, cafe_id))
 
 driver.quit()
 
 # JSON 파일로 저장
-with open('megaCoffee.json', 'w', encoding='utf-8') as f:
+with open('gongcha.json', 'w', encoding='utf-8') as f:
     json.dump(drinks_data, f, ensure_ascii=False, indent=4)
 
 print("******데이터 저장 완료******")

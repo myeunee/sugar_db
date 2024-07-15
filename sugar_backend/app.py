@@ -2,14 +2,18 @@ from flask import Flask
 from flask_cors import CORS
 from config import Config
 from extensions import db, login_manager
+from flask_jwt_extended import JWTManager
 
 def create_app():
     app = Flask(__name__)
-    CORS(app, resources={r"/*": {"origins": "*"}})  # CORS 설정 확인
     app.config.from_object(Config)
+    app.config['DEBUG'] = True
+    
+    CORS(app, resources={r"/*": {"origins": "*", "allow_headers": ["Authorization", "Content-Type"]}})
 
     db.init_app(app)
     login_manager.init_app(app)
+    jwt = JWTManager(app)  # Initialize JWT Manager
 
     from models import User
     @login_manager.user_loader

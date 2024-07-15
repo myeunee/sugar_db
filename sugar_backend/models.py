@@ -17,7 +17,6 @@ class Drink(db.Model):
     image_url = db.Column(db.String(255), nullable=False)
     cafe = db.relationship('Cafe', backref=db.backref('drinks', lazy=True))
 
-
 class User(UserMixin, db.Model):
     __tablename__ = 'users'
     user_id = db.Column(db.Integer, primary_key=True)
@@ -50,5 +49,6 @@ class FavoriteDrink(db.Model):
     favorite_drink_id = db.Column(db.Integer, primary_key=True)
     user_id = db.Column(db.Integer, db.ForeignKey('users.user_id'), nullable=False)
     drink_id = db.Column(db.Integer, db.ForeignKey('drinks.drink_id'), nullable=False)
+    __table_args__ = (db.UniqueConstraint('user_id', 'drink_id', name='unique_user_drink'),)
     user = db.relationship('User', backref=db.backref('favorite_drinks', lazy=True))
     drink = db.relationship('Drink', backref=db.backref('favorite_drinks', lazy=True))

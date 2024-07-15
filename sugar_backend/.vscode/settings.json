@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "c:/Users/myeun/Desktop/24-1/Database/project/sugar_backend/venv/Scripts/python.exe",
+    "python.analysis.extraPaths": [
+        "c:/Users/myeun/Desktop/24-1/Database/project/sugar_backend/venv/Lib/site-packages"
+    ]
+}

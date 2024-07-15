@@ -1,1114 +1,1289 @@
 [
     {
-        "cafe_id": 1,
-        "drink_name": "수박 주스",
+        "name": "지구멜론 스무디",
+        "volume": 590.0,
+        "sugar_content": 61.7,
+        "calories": 446.2,
+        "sodium_content": 275.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240703153809_1719988689586_VUNTyCfmDV.jpg",
+        "cafe_id": 1
+    },
+    {
+        "name": "라이트 바닐라 아몬드라떼",
+        "volume": 590.0,
+        "sugar_content": 3.1,
+        "calories": 75.3,
+        "sodium_content": 119.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240703154302_1719988982437_ZzHlEUdQwF.jpg",
+        "cafe_id": 1
+    },
+    {
+        "name": "달달 골드키위주스",
+        "volume": 590.0,
+        "sugar_content": 43.1,
+        "calories": 202.8,
+        "sodium_content": 15.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240703154535_1719989135876_0a3JsXxUPi.jpg",
+        "cafe_id": 1
+    },
+    {
+        "name": "써니 자몽 스무디",
+        "volume": 590.0,
+        "sugar_content": 53.2,
+        "calories": 234.5,
+        "sodium_content": 161.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240703154825_1719989305031_3e40D0f3da.jpg",
+        "cafe_id": 1
+    },
+    {
+        "name": "수박 주스",
         "volume": 590.0,
         "sugar_content": 22.9,
         "calories": 124.8,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230503152202_1683094922048_HwqepqZ3T1.png"
+        "sodium_content": 3.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610114625_1717987585951_7MdoU0bevF.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "파란하늘 수박소다 펄 프라페",
+        "name": "파란하늘 수박소다 펄 프라페",
         "volume": 590.0,
         "sugar_content": 76.5,
         "calories": 464.6,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240501231540_1714572940350_bVz8I5_1QQ.jpg"
+        "sodium_content": 84.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113348_1717986828929_zUkNrCjkfw.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "몽글젤리 복숭아 스무디",
+        "name": "몽글젤리 복숭아 스무디",
         "volume": 590.0,
         "sugar_content": 90.9,
         "calories": 400.4,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240501231855_1714573135539_rYUX2yfKCy.jpg"
+        "sodium_content": 159.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113518_1717986918271_ISQfCA1x_j.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "탱글탱글 포도알 티플레저",
+        "name": "탱글탱글 포도알 티플레저",
         "volume": 708.0,
         "sugar_content": 66.0,
         "calories": 278.2,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240501232027_1714573227566_QCSzwXJ_wQ.jpg"
+        "sodium_content": 24.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113434_1717986874616_07UWCdhmvw.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "오이오이 라임 오히또",
+        "name": "오이오이 라임 오히또",
         "volume": 708.0,
         "sugar_content": 7.6,
         "calories": 55.4,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240501232226_1714573346435_cSTlwNpfH0.jpg"
+        "sodium_content": 69.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113412_1717986852829_VRrNvdUOeA.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "왕메가초코",
+        "name": "왕메가초코",
         "volume": 944.0,
         "sugar_content": 70.1,
         "calories": 555.9,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240327185427_1711533267794_UW_dXJe088.jpg"
+        "sodium_content": 309.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610114853_1717987733636_Uq2ZKYINXZ.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "왕메가아이스티",
+        "name": "왕메가아이스티",
         "volume": 944.0,
         "sugar_content": 96.6,
         "calories": 474.8,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240327192641_1711535201549_Gf36IO0csS.jpg"
+        "sodium_content": 119.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113625_1717986985834_J_PTjRFq7P.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "제로 복숭아 아이스티",
+        "name": "제로 복숭아 아이스티",
         "volume": 708.0,
         "sugar_content": 0.7,
         "calories": 26.1,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240327193115_1711535475035_46ZQCvlrNT.jpg"
+        "sodium_content": 5.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113548_1717986948917_wK8B5fR4h5.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "연유라떼",
+        "name": "연유라떼",
         "volume": 590.0,
         "sugar_content": 31.9,
         "calories": 351.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430104014_1714441214813_DUm__1R9X0.jpg"
+        "sodium_content": 123.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132459_1717993499610_KiXcTR2q5P.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "골드망고스무디",
+        "name": "골드망고스무디",
         "volume": 590.0,
         "sugar_content": 38.4,
         "calories": 209.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240327195636_1711536996413_KY8UbrMaP1.jpg"
+        "sodium_content": 20.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610112826_1717986506337_AauGwyguRG.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "딸기라떼",
+        "name": "딸기라떼",
         "volume": 590.0,
         "sugar_content": 47.3,
         "calories": 366.4,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240118002132_1705504892231_18kOHNgqsY.jpg"
+        "sodium_content": 50.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132103_1717993263530_CsdWhPUY2U.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "할메가커피",
+        "name": "할메가커피",
         "volume": 590.0,
         "sugar_content": 30.3,
         "calories": 281.9,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230905185615_1693907775304_fenhtXqy4y.jpg"
+        "sodium_content": 22.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113252_1717986772176_6c36zo5yuf.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "왕할메가커피",
+        "name": "왕할메가커피",
         "volume": 944.0,
         "sugar_content": 48.5,
         "calories": 468.7,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230905185855_1693907935536_aXkP_SjplJ.jpg"
+        "sodium_content": 36.8,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610114915_1717987755314_1rAv8UqZUm.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "코코넛 커피 스무디",
+        "name": "코코넛 커피 스무디",
         "volume": 590.0,
         "sugar_content": 61.4,
         "calories": 746.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230503150121_1683093681433_ehOASTxDPQ.png"
+        "sodium_content": 347.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132830_1717993710301_PxTeTM9Suh.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "레드오렌지자몽주스",
+        "name": "레드오렌지자몽주스",
         "volume": 590.0,
         "sugar_content": 43.7,
         "calories": 205.3,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230302111940_1677723580990_DVocCFWWgr.jpg"
+        "sodium_content": 7.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610114724_1717987644333_VifgWYO47n.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "샤인머스캣그린주스",
+        "name": "샤인머스캣그린주스",
         "volume": 590.0,
         "sugar_content": 46.7,
         "calories": 218.1,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230302112058_1677723658262_kWTYa4fhBz.jpg"
+        "sodium_content": 10.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610114703_1717987623930_VIj7O6_wB4.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "딸기주스",
+        "name": "딸기주스",
         "volume": 590.0,
         "sugar_content": 37.1,
         "calories": 196.7,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230102162433_1672644273585_S16nDUXebH.jpg"
+        "sodium_content": 9.8,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610114741_1717987661472_LqJw6WITHO.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "딸기바나나주스",
+        "name": "딸기바나나주스",
         "volume": 590.0,
         "sugar_content": 42.2,
         "calories": 268.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630181211_1656580331105_8H9ebY4_sA.jpg"
+        "sodium_content": 41.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610114817_1717987697259_APSvRawmJi.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 에스프레소",
+        "name": "디카페인 에스프레소",
         "volume": 59.0,
-        "sugar_content": 1.3,
+        "sugar_content": 0.0,
         "calories": 6.2,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217105027_1676598627855_H3HMfEhgCv.jpg"
+        "sodium_content": 0.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610110159_1717984919074_jg4RYBdr_J.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 아메리카노",
+        "name": "디카페인 아메리카노",
         "volume": 590.0,
         "sugar_content": 0.0,
-        "calories": 9.4,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530165901_1717055941478_Pqg3iaoIyM.jpg"
+        "calories": 8.4,
+        "sodium_content": 8.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105207_1717984327186_Sgj9kfKYCi.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 꿀아메리카노",
+        "name": "디카페인 꿀아메리카노",
         "volume": 590.0,
         "sugar_content": 26.2,
         "calories": 149.3,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170738_1717056458641_Ekaz7axUZD.jpg"
+        "sodium_content": 7.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104414_1717983854651_gNaXxjR35W.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 헤이즐넛 아메리카노",
+        "name": "디카페인 헤이즐넛 아메리카노",
         "volume": 590.0,
         "sugar_content": 10.3,
         "calories": 84.2,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170041_1717056041690_L6Lpforr89.jpg"
+        "sodium_content": 5.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105046_1717984246492_KeavFH2VTO.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 바닐라 아메리카노",
+        "name": "디카페인 바닐라 아메리카노",
         "volume": 590.0,
         "sugar_content": 15.6,
         "calories": 83.0,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530165848_1717055928942_RLLylsMj0e.jpg"
+        "sodium_content": 6.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104650_1717984010944__Ck8jyuaDL.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 카페라떼",
+        "name": "디카페인 카페라떼",
         "volume": 590.0,
         "sugar_content": 11.4,
         "calories": 178.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530165946_1717055986546_yFYO97r6dR.jpg"
+        "sodium_content": 102.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105117_1717984277710_7BjonXSBFE.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 카푸치노",
+        "name": "디카페인 카푸치노",
         "volume": 590.0,
         "sugar_content": 10.4,
         "calories": 152.9,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170011_1717056011723_ACnV8jP2Ro.jpg"
+        "sodium_content": 80.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105545_1717984545629_CaGhOpvAnm.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 바닐라라떼",
+        "name": "디카페인 바닐라라떼",
         "volume": 590.0,
         "sugar_content": 21.9,
         "calories": 233.7,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530165821_1717055901718_klCdVd4YG4.jpg"
+        "sodium_content": 89.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104630_1717983990934_v3HPYN93uK.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 헤이즐넛 라떼",
+        "name": "디카페인 헤이즐넛 라떼",
         "volume": 590.0,
         "sugar_content": 18.2,
         "calories": 240.0,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170054_1717056054857_sYqOF5FXJ1.jpg"
+        "sodium_content": 81.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105007_1717984207073_HqCto2mw3y.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 카라멜마끼아또",
+        "name": "디카페인 카라멜마끼아또",
         "volume": 590.0,
         "sugar_content": 21.3,
         "calories": 238.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530165933_1717055973357_l7aPEngCEn.jpg"
+        "sodium_content": 91.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105238_1717984358779_MvgzcNlZdI.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 연유라떼",
+        "name": "디카페인 연유라떼",
         "volume": 590.0,
         "sugar_content": 27.3,
         "calories": 301.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530165912_1717055952957_D2XGVWELDY.jpg"
+        "sodium_content": 127.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105224_1717984344775_9iKsKownRh.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 카페모카",
+        "name": "디카페인 카페모카",
         "volume": 590.0,
         "sugar_content": 36.1,
         "calories": 430.3,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530165959_1717055999843_vbxwWfawxe.jpg"
+        "sodium_content": 181.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105145_1717984305671_2_yE7sXma9.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 티라미수라떼",
+        "name": "디카페인 티라미수라떼",
         "volume": 590.0,
         "sugar_content": 37.2,
         "calories": 436.7,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170024_1717056024671_Dq9Vwb3sqt.jpg"
+        "sodium_content": 194.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104827_1717984107715_BxSMVTV5n4.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 아메리카노",
+        "name": "디카페인 아메리카노",
         "volume": 708.0,
         "sugar_content": 0.0,
         "calories": 9.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217164758_1676620078351_vXSnCZYVF6.jpg"
+        "sodium_content": 4.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240612101052_1718154652699_a0ElVTNb16.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 메가리카노",
+        "name": "디카페인 메가리카노",
         "volume": 944.0,
         "sugar_content": 0.0,
         "calories": 17.1,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217170408_1676621048378_1m10PUoIhz.jpg"
+        "sodium_content": 7.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610115001_1717987801368_av938eflM8.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 꿀아메리카노",
+        "name": "디카페인 꿀아메리카노",
         "volume": 708.0,
         "sugar_content": 21.5,
         "calories": 137.4,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217170535_1676621135999_flZgBpfl93.jpg"
+        "sodium_content": 5.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610131949_1717993189396_pb_H77_7AM.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 헤이즐넛 아메리카노",
+        "name": "디카페인 헤이즐넛 아메리카노",
         "volume": 708.0,
         "sugar_content": 15.8,
         "calories": 108.7,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217170924_1676621364089_OpnrkUgTRg.jpg"
+        "sodium_content": 5.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610131835_1717993115036_XaPndW7UkR.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 바닐라 아메리카노",
+        "name": "디카페인 바닐라 아메리카노",
         "volume": 708.0,
         "sugar_content": 18.0,
         "calories": 107.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171109_1676621469823_cdtONtnQgN.jpg"
+        "sodium_content": 4.8,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610131932_1717993172929_VUtwLd_LyN.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 카페라떼",
+        "name": "디카페인 카페라떼",
         "volume": 590.0,
         "sugar_content": 9.3,
         "calories": 147.7,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430103913_1714441153446_6FXwTFwQeV.jpg"
+        "sodium_content": 78.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132005_1717993205762_9xKCxaSb9P.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 카푸치노",
+        "name": "디카페인 카푸치노",
         "volume": 590.0,
         "sugar_content": 10.1,
         "calories": 127.0,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171433_1676621673555_LIgxeARtGC.jpg"
+        "sodium_content": 68.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132018_1717993218605_64Ij4AhmCE.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 바닐라라떼",
+        "name": "디카페인 바닐라라떼",
         "volume": 590.0,
         "sugar_content": 30.4,
         "calories": 239.3,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430103826_1714441106330_tSF2InH1Zv.jpg"
+        "sodium_content": 70.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113234_1717986754069_tSPQqoiPj6.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 헤이즐넛 라떼",
+        "name": "디카페인 헤이즐넛 라떼",
         "volume": 590.0,
         "sugar_content": 23.4,
         "calories": 237.0,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430103929_1714441169029_nVz2Noufec.jpg"
+        "sodium_content": 70.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132034_1717993234457_aGDHQ0U0Ap.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 카라멜마끼아또",
+        "name": "디카페인 카라멜마끼아또",
         "volume": 590.0,
         "sugar_content": 26.3,
         "calories": 232.9,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171859_1676621939471_NuwLhHs7Mt.jpg"
+        "sodium_content": 68.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610131917_1717993157515_k1yeakRwwv.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 연유라떼",
+        "name": "디카페인 연유라떼",
         "volume": 590.0,
         "sugar_content": 31.9,
         "calories": 351.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430104543_1714441543876_eGwRfZt69U.jpg"
+        "sodium_content": 123.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610131759_1717993079921_A7Gr7qp0g2.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 카페모카",
+        "name": "디카페인 카페모카",
         "volume": 590.0,
         "sugar_content": 32.6,
         "calories": 319.7,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217172044_1676622044889_45ysZTqQhO.jpg"
+        "sodium_content": 117.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240612101114_1718154674451_BGo4AZa57r.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "디카페인 티라미수라떼",
+        "name": "디카페인 티라미수라떼",
         "volume": 590.0,
         "sugar_content": 37.5,
         "calories": 404.3,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217172430_1676622270158_zAinQ9JkHT.jpg"
+        "sodium_content": 176.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240612101133_1718154693622_gipo1rzVp8.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "딸기쿠키프라페",
+        "name": "딸기쿠키프라페",
         "volume": 590.0,
         "sugar_content": 62.2,
         "calories": 575.6,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172226_1656577346336_z_d4URoCvB.jpg"
+        "sodium_content": 271.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132048_1717993248890_NW1QEUmFtQ.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "콜드브루디카페인",
+        "name": "콜드브루디카페인",
         "volume": 590.0,
         "sugar_content": 0.0,
         "calories": 7.7,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701130936_1656648576586_cDwaPJzMuf.jpg"
+        "sodium_content": 0.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132920_1717993760751_69WHioWjnb.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "콜드브루디카페인",
+        "name": "콜드브루디카페인",
         "volume": 590.0,
         "sugar_content": 0.0,
         "calories": 9.4,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170446_1717056286170_IZPwmWrwCa.jpg"
+        "sodium_content": 1.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105522_1717984522154_Wf1ds9riaV.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "콜드브루디카페인라떼",
+        "name": "콜드브루디카페인라떼",
         "volume": 590.0,
         "sugar_content": 0.0,
         "calories": 140.8,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701131027_1656648627428_DZlDQuVTPz.jpg"
+        "sodium_content": 45.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132902_1717993742550_EBciHOxu2w.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "콜드브루디카페인라떼",
+        "name": "콜드브루디카페인라떼",
         "volume": 590.0,
         "sugar_content": 0.0,
         "calories": 153.8,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170429_1717056269445_Vu_hmsP44R.jpg"
+        "sodium_content": 55.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105453_1717984493950_uK1VQNQ6kc.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "에스프레소",
+        "name": "에스프레소",
         "volume": 59.0,
         "sugar_content": 0.0,
         "calories": 7.6,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220818143216_1660800736386_C007eosz5G.jpg"
+        "sodium_content": 0.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105357_1717984437294_AduuhU3VyW.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "에스프레소 도피오",
+        "name": "에스프레소 도피오",
         "volume": 147.5,
         "sugar_content": 0.0,
         "calories": 15.2,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220818143336_1660800816109_lRozkltILp.jpg"
+        "sodium_content": 0.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105413_1717984453131_1es5v0RxH2.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "쿠키프라페",
+        "name": "쿠키프라페",
         "volume": 590.0,
         "sugar_content": 64.9,
         "calories": 725.9,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173946_1656578386691_VAWfjgN1Yy.jpg"
+        "sodium_content": 505.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610115315_1717987995816_oiPZ2u5dJr.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "고구마라떼",
+        "name": "고구마라떼",
         "volume": 590.0,
         "sugar_content": 18.8,
         "calories": 310.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170703_1717056423982_hkt7Qu4kDV.jpg"
+        "sodium_content": 96.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104240_1717983760778_agCooQEUb4.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "곡물라떼",
+        "name": "곡물라떼",
         "volume": 590.0,
         "sugar_content": 40.5,
         "calories": 467.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170716_1717056436158_ojcAM_1Esy.jpg"
+        "sodium_content": 100.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104323_1717983803197_Dpwa_RK4_F.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "토피넛라떼",
+        "name": "토피넛라떼",
         "volume": 590.0,
         "sugar_content": 17.8,
         "calories": 368.0,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170530_1717056330525_TYQBPrhrNY.jpg"
+        "sodium_content": 172.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105954_1717984794244_2JeEMNYiCL.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "고구마라떼",
+        "name": "고구마라떼",
         "volume": 590.0,
         "sugar_content": 21.6,
         "calories": 248.8,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171750_1656663470713__LDMwpslzS.jpg"
+        "sodium_content": 72.8,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610112707_1717986427949_WKHpsJWXlk.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "곡물라떼",
+        "name": "곡물라떼",
         "volume": 590.0,
         "sugar_content": 38.3,
         "calories": 389.7,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630144520_1656567920194_Fn0wniPr9t.jpg"
+        "sodium_content": 87.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610112734_1717986454714_tTXJ2aV1O8.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "오레오초코라떼",
+        "name": "오레오초코라떼",
         "volume": 590.0,
         "sugar_content": 31.1,
         "calories": 449.6,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630144810_1656568090796_yoHykaK4Ul.jpg"
+        "sodium_content": 303.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132638_1717993598875_AQ4q6GUaJD.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "토피넛라떼",
+        "name": "토피넛라떼",
         "volume": 590.0,
         "sugar_content": 22.5,
         "calories": 364.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630145135_1656568295485_eXn10nJFRP.jpg"
+        "sodium_content": 172.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132535_1717993535868_Dk0SpiNnAo.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "흑당버블밀크티라떼",
+        "name": "흑당버블밀크티라떼",
         "volume": 590.0,
         "sugar_content": 24.4,
         "calories": 330.2,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630145600_1656568560202_TnZLPbECKx.jpg"
+        "sodium_content": 106.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610112956_1717986596859_dSAYDVVaV2.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "핫초코",
+        "name": "핫초코",
         "volume": 590.0,
         "sugar_content": 23.0,
         "calories": 374.9,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170607_1717056367235_vvtyHUYKk4.jpg"
+        "sodium_content": 214.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610110045_1717984845295_sGoEnUlQpO.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "녹차라떼",
+        "name": "녹차라떼",
         "volume": 590.0,
         "sugar_content": 14.3,
         "calories": 280.4,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170805_1717056485174_DykRfLSi0j.jpg"
+        "sodium_content": 85.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104456_1717983896154_TxgXQHRHiM.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "로얄밀크티라떼",
+        "name": "로얄밀크티라떼",
         "volume": 590.0,
         "sugar_content": 14.7,
         "calories": 232.0,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170116_1717056076536_yr6vBkqLch.jpg"
+        "sodium_content": 85.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105616_1717984576627_IStTaWZY3_.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "흑당라떼",
+        "name": "흑당라떼",
         "volume": 590.0,
         "sugar_content": 33.6,
         "calories": 322.0,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630151108_1656569468030_FRQYHDiaKH.jpg"
+        "sodium_content": 107.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113159_1717986719673_UjpcQYhtmh.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "흑당밀크티라떼",
+        "name": "흑당밀크티라떼",
         "volume": 590.0,
         "sugar_content": 22.6,
         "calories": 300.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630151925_1656569965570_3YpJCpBq_f.jpg"
+        "sodium_content": 104.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113123_1717986683549_Q8E9tuNYJL.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "흑당버블라떼",
+        "name": "흑당버블라떼",
         "volume": 590.0,
         "sugar_content": 27.2,
         "calories": 320.3,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630152037_1656570037497_XqHfCbZ65M.jpg"
+        "sodium_content": 104.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113023_1717986623453_FuG0kt97Jg.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "아이스초코",
+        "name": "아이스초코",
         "volume": 590.0,
         "sugar_content": 31.0,
         "calories": 308.0,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630152146_1656570106629_4i6msus9Kh.jpg"
+        "sodium_content": 151.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132420_1717993460739_Yi5zAd90Og.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "녹차라떼",
+        "name": "녹차라떼",
         "volume": 590.0,
         "sugar_content": 21.2,
         "calories": 288.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630152307_1656570187902_evYKXmfXYZ.jpg"
+        "sodium_content": 52.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610112917_1717986557781__XIcwRbg0h.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "로얄밀크티라떼",
+        "name": "로얄밀크티라떼",
         "volume": 590.0,
         "sugar_content": 20.2,
         "calories": 254.6,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171803_1656663483909_okELc62jVb.jpg"
+        "sodium_content": 68.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610115251_1717987971895_crJlbiHg7t.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "아메리카노",
+        "name": "아메리카노",
         "volume": 590.0,
         "sugar_content": 0.0,
         "calories": 12.2,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170226_1717056146401_hBg3lcHJZi.jpg"
+        "sodium_content": 2.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105645_1717984605982_8i5CoHU2NV.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "티라미수라떼",
+        "name": "티라미수라떼",
         "volume": 590.0,
         "sugar_content": 38.4,
         "calories": 419.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170545_1717056345226_n5wHtxbDVe.jpg"
+        "sodium_content": 194.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610110012_1717984812018_NPttY_PPM3.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "메가리카노",
+        "name": "메가리카노",
         "volume": 944.0,
         "sugar_content": 0.0,
         "calories": 16.7,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630162318_1656573798017_43JQ0t0JCi.jpg"
+        "sodium_content": 0.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132223_1717993343456_4KESgpG57t.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "티라미수라떼",
+        "name": "티라미수라떼",
         "volume": 590.0,
         "sugar_content": 37.8,
         "calories": 400.6,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630162717_1656574037958_MK_IcEfyCf.jpg"
+        "sodium_content": 174.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132847_1717993727622_rgN3k3NGOE.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "꿀아메리카노",
+        "name": "꿀아메리카노",
         "volume": 590.0,
         "sugar_content": 30.4,
         "calories": 172.4,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170726_1717056446658_ZXFfXnLsyL.jpg"
+        "sodium_content": 12.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104349_1717983829122_YzOyiQAOOg.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "바닐라라떼",
+        "name": "바닐라라떼",
         "volume": 590.0,
-        "sugar_content": 12.6,
-        "calories": 231.9,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170148_1717056108816_bNE1RNOmUe.jpg"
+        "sugar_content": 29.6,
+        "calories": 235.2,
+        "sodium_content": 86.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104603_1717983963750_lApih2z1h0.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "바닐라아메리카노",
+        "name": "바닐라아메리카노",
         "volume": 590.0,
-        "sugar_content": 19.0,
-        "calories": 84.3,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170132_1717056092499_sl2j0UG7a5.jpg"
+        "sugar_content": 15.7,
+        "calories": 97.8,
+        "sodium_content": 5.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104740_1717984060714__tk3s9Kb_s.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "연유라떼",
+        "name": "연유라떼",
         "volume": 590.0,
         "sugar_content": 32.8,
         "calories": 321.6,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170250_1717056170576_fXQTypW2OD.jpg"
+        "sodium_content": 144.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105712_1717984632188_Lqh27degWu.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "카라멜마끼아또",
+        "name": "카라멜마끼아또",
         "volume": 590.0,
         "sugar_content": 20.9,
         "calories": 244.9,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170322_1717056202146__XrCiU7ylC.jpg"
+        "sodium_content": 76.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105805_1717984685954_T1qos0ocDV.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "카페라떼",
+        "name": "카페라떼",
         "volume": 590.0,
         "sugar_content": 10.8,
         "calories": 175.4,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170338_1717056218882_JWELczC_Jv.jpg"
+        "sodium_content": 101.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105821_1717984701991_RUKCqSZ_HO.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "카페모카",
+        "name": "카페모카",
         "volume": 590.0,
         "sugar_content": 35.5,
         "calories": 401.1,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170350_1717056230823_4lk2N6tunJ.jpg"
+        "sodium_content": 199.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105838_1717984718108_ZB6aalHqIU.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "카푸치노",
+        "name": "카푸치노",
         "volume": 590.0,
         "sugar_content": 3.4,
         "calories": 145.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170400_1717056240256_FR9uqv88P4.jpg"
+        "sodium_content": 60.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105852_1717984732750_WEt0KXVcnQ.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "콜드브루라떼",
+        "name": "콜드브루라떼",
         "volume": 590.0,
         "sugar_content": 2.1,
         "calories": 164.2,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170518_1717056318803_ZuvOgsGady.jpg"
+        "sodium_content": 54.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105923_1717984763591_cKSGllWUzt.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "콜드브루오리지널",
+        "name": "콜드브루오리지널",
         "volume": 590.0,
         "sugar_content": 0.0,
         "calories": 10.6,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170501_1717056301242_aHYbhH2BLY.jpg"
+        "sodium_content": 1.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105941_1717984781078_rdCUXhwycL.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "헤이즐넛라떼",
+        "name": "헤이즐넛라떼",
         "volume": 590.0,
         "sugar_content": 9.7,
         "calories": 240.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170648_1717056408270_ny2AcT9ZED.jpg"
+        "sodium_content": 63.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610110117_1717984877061_sLiVRNPq6J.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "헤이즐넛아메리카노",
+        "name": "헤이즐넛아메리카노",
         "volume": 590.0,
         "sugar_content": 9.5,
         "calories": 82.7,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170634_1717056394144_1fbkDYIhDT.jpg"
+        "sodium_content": 2.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610110133_1717984893137_AqJAuHaq0t.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "꿀아메리카노",
+        "name": "꿀아메리카노",
         "volume": 708.0,
         "sugar_content": 30.6,
         "calories": 162.2,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165049_1656575449464_E1DEXFVNdW.jpg"
+        "sodium_content": 7.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610133054_1717993854434_bTty_9u3br.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "바닐라라떼",
+        "name": "바닐라라떼",
         "volume": 590.0,
-        "sugar_content": 20.3,
-        "calories": 244.2,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430103952_1714441192422_MJalDENv6C.jpg"
+        "sugar_content": 23.7,
+        "calories": 239.2,
+        "sodium_content": 74.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132249_1717993369864_VIG6IR2byt.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "바닐라아메리카노",
+        "name": "바닐라아메리카노",
         "volume": 708.0,
-        "sugar_content": 6.9,
-        "calories": 121.9,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165235_1656575555877_RSKgcHXQl3.jpg"
+        "sugar_content": 20.2,
+        "calories": 122.7,
+        "sodium_content": 3.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610133038_1717993838652__Ax_Xwuz6T.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "카라멜마끼아또",
+        "name": "카라멜마끼아또",
         "volume": 590.0,
         "sugar_content": 18.5,
         "calories": 243.9,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165339_1656575619040_5XSmRW4GJT.jpg"
+        "sodium_content": 61.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132714_1717993634339_dshEGyCDsC.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "카페라떼",
+        "name": "카페라떼",
         "volume": 590.0,
         "sugar_content": 9.2,
         "calories": 145.1,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430104038_1714441238799_kNV7Mr4Ne2.jpg"
+        "sodium_content": 88.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132819_1717993699956_cEyZRaBZh5.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "카페모카",
+        "name": "카페모카",
         "volume": 590.0,
         "sugar_content": 30.6,
         "calories": 318.3,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165537_1656575737487_Bxg3VBe7i4.jpg"
+        "sodium_content": 144.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132727_1717993647297_GiQ8g7jOCk.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "카푸치노",
+        "name": "카푸치노",
         "volume": 590.0,
         "sugar_content": 1.1,
         "calories": 132.4,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171815_1656663495020_hBTogoFiaK.jpg"
+        "sodium_content": 54.8,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132739_1717993659672_JFeCQ5qV53.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "콜드브루라떼",
+        "name": "콜드브루라떼",
         "volume": 590.0,
         "sugar_content": 2.3,
         "calories": 167.6,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165729_1656575849505_E5EJrrZjIF.jpg"
+        "sodium_content": 35.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132935_1717993775051_eflW8NpTDq.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "콜드브루오리지널",
+        "name": "콜드브루오리지널",
         "volume": 590.0,
         "sugar_content": 0.0,
         "calories": 7.2,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165819_1656575899792_ItfqiNDhPh.jpg"
+        "sodium_content": 0.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132948_1717993788811_j_eYzA1Esd.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "헤이즐넛라떼",
+        "name": "헤이즐넛라떼",
         "volume": 590.0,
         "sugar_content": 10.8,
         "calories": 237.4,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430104100_1714441260123_buRoeWVyce.jpg"
+        "sodium_content": 57.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430104100_1714441260123_buRoeWVyce.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "헤이즐넛아메리카노",
+        "name": "헤이즐넛아메리카노",
         "volume": 708.0,
         "sugar_content": 15.8,
         "calories": 113.6,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630170029_1656576029152_FYWEDbVbFT.jpg"
+        "sodium_content": 0.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610133023_1717993823204_vNvExvVODX.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "큐브라떼",
+        "name": "큐브라떼",
         "volume": 590.0,
         "sugar_content": 15.0,
         "calories": 304.4,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630170153_1656576113197_DlT_PINcn9.jpg"
+        "sodium_content": 72.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132523_1717993523193_4mNdkfnxvz.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "아메리카노",
+        "name": "아메리카노",
         "volume": 708.0,
         "sugar_content": 0.0,
         "calories": 12.2,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630171805_1656577085458_7skvYFEJwH.jpg"
+        "sodium_content": 1.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610133007_1717993807130_nwB5CATOJJ.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "녹차프라페",
+        "name": "녹차프라페",
         "volume": 590.0,
         "sugar_content": 66.0,
         "calories": 584.0,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172012_1656577212055_xI5BNzVrBv.jpg"
+        "sodium_content": 127.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610112933_1717986573712__ob6vfs5Id.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "딸기요거트스무디",
+        "name": "딸기요거트스무디",
         "volume": 590.0,
         "sugar_content": 62.5,
         "calories": 388.8,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172121_1656577281098_SlUU5dNwy3.jpg"
+        "sodium_content": 66.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132117_1717993277823_KRGDVA4aeJ.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "딸기퐁크러쉬",
+        "name": "딸기퐁크러쉬",
         "volume": 590.0,
         "sugar_content": 45.9,
         "calories": 536.9,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172329_1656577409159_FwpVWoa5tq.jpg"
+        "sodium_content": 156.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132132_1717993292542_TOXDd7N_72.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "리얼초코프라페",
+        "name": "리얼초코프라페",
         "volume": 590.0,
         "sugar_content": 70.2,
         "calories": 651.1,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430103939_1714441179730_WWfmlKNbp8.jpg"
+        "sodium_content": 282.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132157_1717993317456_RCHCZKkudt.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "망고요거트스무디",
+        "name": "망고요거트스무디",
         "volume": 590.0,
         "sugar_content": 56.4,
         "calories": 365.2,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172551_1656577551617_kS42LIFWUP.jpg"
+        "sodium_content": 76.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132210_1717993330781_04rKlgIKk6.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "민트프라페",
+        "name": "민트프라페",
         "volume": 590.0,
         "sugar_content": 64.7,
         "calories": 620.2,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172654_1656577614651_YWpnhL4tWC.jpg"
+        "sodium_content": 195.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610115353_1717988033471_n8WL4rST4C.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "바나나퐁크러쉬",
+        "name": "바나나퐁크러쉬",
         "volume": 590.0,
         "sugar_content": 64.2,
         "calories": 593.8,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172744_1656577664430_xxgPSw_6dO.jpg"
+        "sodium_content": 167.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132238_1717993358631_MGPEpkvNh1.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "스트로베리치즈홀릭",
+        "name": "스트로베리치즈홀릭",
         "volume": 590.0,
         "sugar_content": 69.4,
         "calories": 566.1,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430104004_1714441204742_hnv5cFIQUI.jpg"
+        "sodium_content": 150.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132359_1717993439521_eb_p22hYAm.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "초코허니퐁크러쉬",
+        "name": "초코허니퐁크러쉬",
         "volume": 590.0,
         "sugar_content": 58.1,
         "calories": 577.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173152_1656577913000_wcKkf0OiR_.jpg"
+        "sodium_content": 266.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132651_1717993611266_QFRonrkBzf.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "커피프라페",
+        "name": "커피프라페",
         "volume": 590.0,
         "sugar_content": 28.9,
         "calories": 420.4,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430104048_1714441248632_TioHpXFOxq.jpg"
+        "sodium_content": 135.8,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132804_1717993684465__jH6f5a2VM.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "플레인요거트스무디",
+        "name": "플레인요거트스무디",
         "volume": 590.0,
         "sugar_content": 84.5,
         "calories": 514.9,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173441_1656578081783_m2stsUQfSH.jpg"
+        "sodium_content": 103.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240612101151_1718154711606_iC5h64zrID.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "슈크림허니퐁크러쉬",
+        "name": "슈크림허니퐁크러쉬",
         "volume": 590.0,
         "sugar_content": 49.5,
         "calories": 568.1,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173702_1656578222665_URDbIWF3Ge.jpg"
+        "sodium_content": 198.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132349_1717993429605_NSpEzrHEAN.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "플레인퐁크러쉬",
+        "name": "플레인퐁크러쉬",
         "volume": 590.0,
         "sugar_content": 46.2,
         "calories": 468.6,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630174120_1656578480425_zDgsPabCUA.jpg"
+        "sodium_content": 154.8,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113328_1717986808464_JOQsVpbWKq.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "라임모히또",
+        "name": "라임모히또",
         "volume": 708.0,
         "sugar_content": 45.8,
         "calories": 278.6,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630175423_1656579263944_ycn4t3hwxa.jpg"
+        "sodium_content": 5.6,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132145_1717993305587_JyUa7vPj3s.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "레몬에이드",
+        "name": "레몬에이드",
         "volume": 708.0,
         "sugar_content": 35.1,
         "calories": 196.8,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630175526_1656579326607_5YlsYvYbOp.jpg"
+        "sodium_content": 71.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610114557_1717987557279_GKXThr0HAc.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "블루레몬에이드",
+        "name": "블루레몬에이드",
         "volume": 708.0,
         "sugar_content": 36.5,
         "calories": 225.0,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630175800_1656579480786_aPTTGq1vzy.jpg"
+        "sodium_content": 77.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132302_1717993382502_3JianCydlm.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "자몽에이드",
+        "name": "자몽에이드",
         "volume": 708.0,
         "sugar_content": 40.7,
         "calories": 203.8,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630180039_1656579639972_oL9vkikWmx.jpg"
+        "sodium_content": 3.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132602_1717993562754_oDf7jybQYy.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "청포도에이드",
+        "name": "청포도에이드",
         "volume": 708.0,
         "sugar_content": 57.6,
         "calories": 305.4,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430104026_1714441226905_c1UnU7YKVm.jpg"
+        "sodium_content": 5.9,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610115123_1717987883226_DMMQB84jmS.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "유니콘매직에이드(블루)",
+        "name": "유니콘매직에이드(블루)",
         "volume": 708.0,
         "sugar_content": 48.6,
         "calories": 275.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630182155_1656580915892_BEA6u2b3Ym.jpg"
+        "sodium_content": 16.7,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132317_1717993397182_4Pp9UsAoPT.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "체리콕",
+        "name": "체리콕",
         "volume": 708.0,
         "sugar_content": 55.6,
         "calories": 323.6,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630182321_1656581001230__fv6UmKGjl.jpg"
+        "sodium_content": 5.4,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132612_1717993572374_TDYT0F41KY.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "메가에이드",
+        "name": "메가에이드",
         "volume": 708.0,
         "sugar_content": 53.9,
         "calories": 292.4,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630183110_1656581470280_dcyjVzPTSr.jpg"
+        "sodium_content": 9.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610115027_1717987827980_oPj14Xi9y1.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "녹차",
+        "name": "녹차",
         "volume": 590.0,
         "sugar_content": 0.0,
         "calories": 0.7,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170753_1717056473788_GukXTcHM31.jpg"
+        "sodium_content": 4.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104441_1717983881331_6kaOJy5ayw.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "사과유자차",
+        "name": "사과유자차",
         "volume": 590.0,
         "sugar_content": 47.0,
         "calories": 227.1,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170203_1717056123907_V0Tp_mXBva.jpg"
+        "sodium_content": 89.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105629_1717984589552_V9ta2Qw90q.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "얼그레이",
+        "name": "얼그레이",
         "volume": 590.0,
         "sugar_content": 0.0,
         "calories": 0.7,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170237_1717056157304_BzLWIGSMjU.jpg"
+        "sodium_content": 4.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105659_1717984619283_Ssc082a5GK.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "캐모마일",
+        "name": "캐모마일",
         "volume": 590.0,
         "sugar_content": 0.0,
         "calories": 0.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170414_1717056254221_RprGQli3VT.jpg"
+        "sodium_content": 5.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105908_1717984748214_qc34s7Vkq5.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "페퍼민트",
+        "name": "페퍼민트",
         "volume": 590.0,
         "sugar_content": 0.0,
         "calories": 0.2,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170555_1717056355078_D4MC6U3WaK.jpg"
+        "sodium_content": 5.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610110026_1717984826888_gfP6LsxEV3.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "녹차",
+        "name": "녹차",
         "volume": 708.0,
         "sugar_content": 0.0,
         "calories": 1.0,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113057_1656642657113_ORWSdJHBUa.jpg"
+        "sodium_content": 2.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610112857_1717986537987_H1q4z1rnt2.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "사과유자차",
+        "name": "사과유자차",
         "volume": 708.0,
         "sugar_content": 37.5,
         "calories": 242.2,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113153_1656642713022_k19Le9pVJ4.jpg"
+        "sodium_content": 74.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132332_1717993412234_5kkTR1DkNH.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "얼그레이",
+        "name": "얼그레이",
         "volume": 708.0,
         "sugar_content": 0.0,
         "calories": 1.3,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113256_1656642776818_NVdHeZhSwJ.jpg"
+        "sodium_content": 2.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132511_1717993511025_ChoqheNJQf.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "캐모마일",
+        "name": "캐모마일",
         "volume": 708.0,
         "sugar_content": 0.0,
         "calories": 1.3,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113429_1656642869511_RmwB3ABBGy.jpg"
+        "sodium_content": 2.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132753_1717993673758__j_omi1oWY.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "페퍼민트",
+        "name": "페퍼민트",
         "volume": 708.0,
         "sugar_content": 0.0,
         "calories": 2.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113900_1656643140203_8gqFs23KzD.jpg"
+        "sodium_content": 3.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610115138_1717987898720_OdAWvoBqNh.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "복숭아아이스티",
+        "name": "복숭아아이스티",
         "volume": 708.0,
         "sugar_content": 62.6,
         "calories": 297.1,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701114038_1656643238601_tmNjGB3jsD.jpg"
+        "sodium_content": 67.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132446_1717993486995_hvfli27vPn.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "유자차",
+        "name": "유자차",
         "volume": 590.0,
         "sugar_content": 47.9,
         "calories": 286.4,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170301_1717056181452_hpFUoWkIKD.jpg"
+        "sodium_content": 104.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105725_1717984645282_YfXeYsJzVV.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "레몬차",
+        "name": "레몬차",
         "volume": 590.0,
         "sugar_content": 56.1,
         "calories": 275.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170106_1717056066020_QodGX5b3nV.jpg"
+        "sodium_content": 94.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105600_1717984560889__UGBqFya7F.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "자몽차",
+        "name": "자몽차",
         "volume": 590.0,
         "sugar_content": 58.1,
         "calories": 294.0,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170311_1717056191481_4KHkleuPg9.jpg"
+        "sodium_content": 84.2,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105747_1717984667913_eDh3AjWACb.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "허니자몽블랙티",
+        "name": "허니자몽블랙티",
         "volume": 590.0,
         "sugar_content": 53.6,
         "calories": 302.2,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240530170619_1717056379663_5EUdHPk6Hb.jpg"
+        "sodium_content": 97.5,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610110100_1717984860663_v7Af5f77sc.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "유자차",
+        "name": "유자차",
         "volume": 708.0,
         "sugar_content": 59.4,
         "calories": 303.1,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701114618_1656643578419_AJ7yOGg1se.jpg"
+        "sodium_content": 99.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610115050_1717987850728_2zPgDAyVmu.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "레몬차",
+        "name": "레몬차",
         "volume": 708.0,
         "sugar_content": 68.9,
         "calories": 327.5,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701125401_1656647641310_rTz7X5_dkK.jpg"
+        "sodium_content": 101.3,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610114530_1717987530809_R6DsXnSZN_.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "자몽차",
+        "name": "자몽차",
         "volume": 708.0,
         "sugar_content": 58.5,
         "calories": 297.6,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701125500_1656647700753_PLbN1hunjZ.jpg"
+        "sodium_content": 89.1,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132550_1717993550755_D158pZtb1K.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "허니자몽블랙티",
+        "name": "허니자몽블랙티",
         "volume": 708.0,
         "sugar_content": 42.7,
         "calories": 265.8,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701125611_1656647771494_C6SS0q6aeS.jpg"
+        "sodium_content": 133.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113215_1717986735582_1qL_k3FLJ6.jpg",
+        "cafe_id": 1
     },
     {
-        "cafe_id": 1,
-        "drink_name": "유니콘프라페",
+        "name": "유니콘프라페",
         "volume": 590.0,
         "sugar_content": 50.4,
         "calories": 479.9,
-        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173830_1656578310115_xVPHpZeHkl.jpg"
+        "sodium_content": 196.0,
+        "image_url": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132625_1717993585668_kEsRMT9xQx.jpg",
+        "cafe_id": 1
     }
 ]
